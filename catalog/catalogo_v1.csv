@@ -1,0 +1,264 @@
+﻿artista,titolo,anno,tipo,luogo,citta,stato,conta_nel_totale,rarita,punti,nota,qid,wikidata
+Caravaggio,Deposizione,1603,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,"Musei Vaticani: decidere se il Vaticano rientra nel Pokédex ""Italia"". Anno su Wikidata errato (1700), corretto in 1603",Q1213151,https://www.wikidata.org/wiki/Q1213151
+Caravaggio,San Francesco in meditazione,1606,dipinto,Museo civico Ala Ponzone,Cremona,esposta,sì,Non comune,25,,Q2275371,https://www.wikidata.org/wiki/Q2275371
+Caravaggio,Amorino dormiente,1608,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q2429754,https://www.wikidata.org/wiki/Q2429754
+Caravaggio,Bacco,1590,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2011510,https://www.wikidata.org/wiki/Q2011510
+Caravaggio,Medusa,1597,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,Anno su Wikidata (1590) poco preciso: circa 1597,Q2293905,https://www.wikidata.org/wiki/Q2293905
+Caravaggio,Ragazzo morso da un ramarro,1597,dipinto,Fondazione Roberto Longhi,Firenze,esposta,sì,Rara,50,,Q131543672,https://www.wikidata.org/wiki/Q131543672
+Caravaggio,Ritratto di Antonio Martelli,1607,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q1113749,https://www.wikidata.org/wiki/Q1113749
+Caravaggio,Sacrificio di Isacco,1600,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2284829,https://www.wikidata.org/wiki/Q2284829
+Caravaggio,Adorazione dei pastori,1609,dipinto,Museo regionale di Messina,Messina,esposta,sì,Rara,50,,Q2327715,https://www.wikidata.org/wiki/Q2327715
+Caravaggio,Resurrezione di Lazzaro,1609,dipinto,Museo regionale di Messina,Messina,esposta,sì,Rara,50,,Q2277635,https://www.wikidata.org/wiki/Q2277635
+Caravaggio,Canestra di frutta,1600,dipinto,Pinacoteca Ambrosiana,Milano,esposta,sì,Comune,10,,Q2270291,https://www.wikidata.org/wiki/Q2270291
+Caravaggio,Cena in Emmaus,1606,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q2097931,https://www.wikidata.org/wiki/Q2097931
+Caravaggio,Flagellazione di Cristo,1607,dipinto,Museo nazionale di Capodimonte,Napoli,esposta,sì,Comune,10,"Wikidata indica ""deposito del museo"": da verificare, di norma esposta a Capodimonte",Q2264942,https://www.wikidata.org/wiki/Q2264942
+Caravaggio,Martirio di sant'Orsola,1610,dipinto,Gallerie d'Italia,Napoli,esposta,sì,Non comune,25,Gallerie d'Italia di Napoli (città mancante su Wikidata),Q1132486,https://www.wikidata.org/wiki/Q1132486
+Caravaggio,Sette opere di Misericordia,1607,dipinto,Pio Monte della Misericordia,Napoli,esposta,sì,Non comune,25,,Q2626595,https://www.wikidata.org/wiki/Q2626595
+Caravaggio,Bacchino malato,1595,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2293936,https://www.wikidata.org/wiki/Q2293936
+Caravaggio,Buona ventura,1594,dipinto,Musei Capitolini,Roma,esposta,sì,Comune,10,,Q16534183,https://www.wikidata.org/wiki/Q16534183
+Caravaggio,Conversione di san Paolo,1600,dipinto,basilica di Santa Maria del Popolo,Roma,esposta,sì,Non comune,25,,Q2273517,https://www.wikidata.org/wiki/Q2273517
+Caravaggio,Crocifissione di san Pietro,1600,dipinto,basilica di Santa Maria del Popolo,Roma,esposta,sì,Non comune,25,,Q685916,https://www.wikidata.org/wiki/Q685916
+Caravaggio,Davide con la testa di Golia,1605,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2627056,https://www.wikidata.org/wiki/Q2627056
+Caravaggio,Fanciullo con canestro di frutta,1594,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2610936,https://www.wikidata.org/wiki/Q2610936
+Caravaggio,Giuditta che decapita Oloferne,1599,dipinto,Palazzo Barberini,Roma,esposta,sì,Comune,10,,Q2470123,https://www.wikidata.org/wiki/Q2470123
+Caravaggio,Maddalena penitente,1600,dipinto,Galleria Doria Pamphilj,Roma,esposta,sì,Comune,10,,Q2732274,https://www.wikidata.org/wiki/Q2732274
+Caravaggio,Madonna dei Palafrenieri,1605,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2715302,https://www.wikidata.org/wiki/Q2715302
+Caravaggio,Madonna dei Pellegrini,1605,dipinto,basilica di Sant'Agostino in Campo Marzio,Roma,esposta,sì,Non comune,25,,Q2713203,https://www.wikidata.org/wiki/Q2713203
+Caravaggio,Martirio di san Matteo,1600,dipinto,chiesa di San Luigi dei Francesi,Roma,esposta,sì,Non comune,25,Mancava dalla prima estrazione perché non ha la collezione su Wikidata,Q2338417,https://www.wikidata.org/wiki/Q2338417
+Caravaggio,Riposo durante la fuga in Egitto,1597,dipinto,Galleria Doria Pamphilj,Roma,esposta,sì,Comune,10,,Q745098,https://www.wikidata.org/wiki/Q745098
+Caravaggio,San Francesco in meditazione,1606,dipinto,Museo dei Cappuccini,Roma,esposta,sì,Non comune,25,In deposito presso il Museo dei Cappuccini di via Veneto,Q2275353,https://www.wikidata.org/wiki/Q2275353
+Caravaggio,San Giovanni Battista,1604,dipinto,Galleria Corsini,Roma,esposta,sì,Comune,10,,Q3463869,https://www.wikidata.org/wiki/Q3463869
+Caravaggio,San Giovanni Battista,1610,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q9015206,https://www.wikidata.org/wiki/Q9015206
+Caravaggio,San Giovanni Battista (giovane con montone),1602,dipinto,Musei Capitolini,Roma,esposta,sì,Comune,10,,Q3223625,https://www.wikidata.org/wiki/Q3223625
+Caravaggio,San Girolamo,1606,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2715177,https://www.wikidata.org/wiki/Q2715177
+Caravaggio,San Matteo e l'angelo,1602,dipinto,chiesa di San Luigi dei Francesi,Roma,esposta,sì,Non comune,25,,Q2337873,https://www.wikidata.org/wiki/Q2337873
+Caravaggio,Vocazione di san Matteo,1600,dipinto,chiesa di San Luigi dei Francesi,Roma,esposta,sì,Non comune,25,,Q969377,https://www.wikidata.org/wiki/Q969377
+Caravaggio,Seppellimento di santa Lucia,1608,dipinto,santuario di Santa Lucia al Sepolcro,Siracusa,esposta,sì,Rara,50,,Q1132479,https://www.wikidata.org/wiki/Q1132479
+Caravaggio,Fanciullo che monda una pera,1592,dipinto,Fondazione Roberto Longhi,Firenze,dubbia,da decidere,Rara,50,Attribuzione discussa (possibile copia),Q102641148,https://www.wikidata.org/wiki/Q102641148
+Caravaggio,Il cavadenti,1608,dipinto,Galleria Palatina,Firenze,dubbia,da decidere,Comune,10,Attribuzione discussa,Q3202347,https://www.wikidata.org/wiki/Q3202347
+Caravaggio,Ecce Homo,1605,dipinto,palazzo Bianco,Genova,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q2325834,https://www.wikidata.org/wiki/Q2325834
+Caravaggio,Ritratto di gentiluomo (Scipione Borghese?),1601,dipinto,museo civico di Montepulciano,Montepulciano,dubbia,da decidere,Non comune,25,Attribuzione discussa; soggetto incerto,Q67204634,https://www.wikidata.org/wiki/Q67204634
+Caravaggio,Incoronazione di spine,1604,dipinto,Palazzo degli Alberti,Prato,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q1448701,https://www.wikidata.org/wiki/Q1448701
+Caravaggio,Narciso,1600,dipinto,Palazzo Barberini,Roma,dubbia,da decidere,Comune,10,Attribuzione discussa,Q746716,https://www.wikidata.org/wiki/Q746716
+Caravaggio,Ritratto di Maffeo Barberini,1598,dipinto,Palazzo Barberini,Roma,dubbia,da decidere,Comune,10,Attribuzione discussa; da verificare se esposta,Q2734111,https://www.wikidata.org/wiki/Q2734111
+Caravaggio,San Giovanni Battista (giovane con montone),1602,dipinto,Galleria Doria Pamphilj,Roma,dubbia,da decidere,Comune,10,Considerata replica o copia della versione dei Musei Capitolini,Q131613900,https://www.wikidata.org/wiki/Q131613900
+Caravaggio,Ritratto di Maffeo Barberini (versione fiorentina),1593,dipinto,Palazzo Corsini al Parione,Firenze,privata,no,Leggendaria,100,Collezione privata; attribuzione discussa,Q16596970,https://www.wikidata.org/wiki/Q16596970
+Caravaggio,Natività con i santi Lorenzo e Francesco d'Assisi,1600,dipinto,oratorio di San Lorenzo,Palermo,fantasma,no,Fantasma,200,"Rubata nel 1969, mai ritrovata; nell'oratorio c'è una riproduzione",Q1433194,https://www.wikidata.org/wiki/Q1433194
+Caravaggio,Conversione di san Paolo (versione Odescalchi),1600,dipinto,Odescalchi,Roma,privata,no,Leggendaria,100,"Collezione privata Odescalchi, visibile solo in occasioni particolari",Q1448203,https://www.wikidata.org/wiki/Q1448203
+Caravaggio,"Giove, Nettuno e Plutone",1597,dipinto,Villa Ludovisi,Roma,privata,no,Leggendaria,100,"Dipinto murale nel Casino dell'Aurora, villa privata visitabile raramente",Q1122537,https://www.wikidata.org/wiki/Q1122537
+Caravaggio,Ritratto di papa Paolo V,1605,dipinto,Collezione Borghese,Roma,privata,no,Leggendaria,100,"Da verificare: Wikidata la colloca alla Galleria Borghese, ma risulta nella collezione privata della famiglia Borghese",Q1460271,https://www.wikidata.org/wiki/Q1460271
+Caravaggio,San Matteo e l'angelo (prima versione),1602,dipinto,cappella Contarelli (originale distrutto a Berlino nel 1945),Roma,fantasma,no,Fantasma,200,"Prima versione, distrutta a Berlino nel 1945: errore di dati che la colloca a Roma",Q577248,https://www.wikidata.org/wiki/Q577248
+Francesco Hayez,Ruth,,dipinto,Palazzo Mazzetti,Asti,esposta,sì,Non comune,25,,Q132397741,https://www.wikidata.org/wiki/Q132397741
+Francesco Hayez,Ruth,1853,dipinto,Collezioni comunali d'arte,Bologna,esposta,sì,Non comune,25,,Q122852809,https://www.wikidata.org/wiki/Q122852809
+Francesco Hayez,I profughi di Parga,1831,dipinto,Pinacoteca Tosio Martinengo,Brescia,esposta,sì,Non comune,25,,Q15617780,https://www.wikidata.org/wiki/Q15617780
+Francesco Hayez,Incontro tra Esaù e Giacobbe,1844,dipinto,Pinacoteca Tosio Martinengo,Brescia,esposta,sì,Non comune,25,,Q66025048,https://www.wikidata.org/wiki/Q66025048
+Francesco Hayez,Autoritratto a 71 anni,1862,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q52084102,https://www.wikidata.org/wiki/Q52084102
+Francesco Hayez,I due Foscari,1852,dipinto,Palazzo Pitti,Firenze,esposta,sì,Comune,10,,Q116189106,https://www.wikidata.org/wiki/Q116189106
+Francesco Hayez,Ritratto del conte Arese in carcere,1828,dipinto,Galleria d'arte moderna di Palazzo Pitti,Firenze,esposta,sì,Comune,10,,Q115951184,https://www.wikidata.org/wiki/Q115951184
+Francesco Hayez,Sansone e il leone,1842,dipinto,Galleria d'arte moderna di Palazzo Pitti,Firenze,esposta,sì,Comune,10,,Q137604105,https://www.wikidata.org/wiki/Q137604105
+Francesco Hayez,Ritratto della contessa Teresa Zumali Marsili col figlio,1833,dipinto,Azienda Socio Sanitaria Territoriale,Lodi,esposta,sì,Rara,50,"Collezione ospedaliera, accesso limitato",Q122361268,https://www.wikidata.org/wiki/Q122361268
+Francesco Hayez,Autoritratto a 57 anni,1848,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q66023806,https://www.wikidata.org/wiki/Q66023806
+Francesco Hayez,Autoritratto con tigre e leone,1830,dipinto,Museo Poldi Pezzoli,Milano,esposta,sì,Non comune,25,,Q19960339,https://www.wikidata.org/wiki/Q19960339
+Francesco Hayez,Autoritratto in un gruppo di amici,1824,dipinto,Museo Poldi Pezzoli,Milano,esposta,sì,Non comune,25,,Q18924970,https://www.wikidata.org/wiki/Q18924970
+Francesco Hayez,Bagnante,1859,dipinto,Accademia di belle arti di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q19897001,https://www.wikidata.org/wiki/Q19897001
+Francesco Hayez,Betsabea al bagno,1841,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q19863020,https://www.wikidata.org/wiki/Q19863020
+Francesco Hayez,Crocifisso con la Maddalena,,dipinto,Museo diocesano,Milano,esposta,sì,Non comune,25,,Q131674361,https://www.wikidata.org/wiki/Q131674361
+Francesco Hayez,Gli ultimi momenti del doge Marin Faliero,1867,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q66823482,https://www.wikidata.org/wiki/Q66823482
+Francesco Hayez,I due Foscari (L'ultimo abboccamento di Jacopo Foscari),1839,dipinto,Gallerie d'Italia,Milano,esposta,sì,Comune,10,,Q105001950,https://www.wikidata.org/wiki/Q105001950
+Francesco Hayez,Il bacio,1859,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q1195035,https://www.wikidata.org/wiki/Q1195035
+Francesco Hayez,Il doge Gritti,1842,dipinto,Accademia di belle arti di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q124356817,https://www.wikidata.org/wiki/Q124356817
+Francesco Hayez,La Maddalena penitente,1833,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q19960406,https://www.wikidata.org/wiki/Q19960406
+Francesco Hayez,La congiura dei Lampugnani,1826,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q3821882,https://www.wikidata.org/wiki/Q3821882
+Francesco Hayez,La morte di Abradate,1813,dipinto,Gallerie d'Italia,Milano,esposta,sì,Comune,10,,Q66091376,https://www.wikidata.org/wiki/Q66091376
+Francesco Hayez,Laocoonte,1812,dipinto,Accademia di belle arti di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q66074053,https://www.wikidata.org/wiki/Q66074053
+Francesco Hayez,Malinconia,1840,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q28547164,https://www.wikidata.org/wiki/Q28547164
+Francesco Hayez,Nudo femminile,1859,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q19960403,https://www.wikidata.org/wiki/Q19960403
+Francesco Hayez,Odalisca nel sonno,1867,dipinto,Accademia di belle arti di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q122364546,https://www.wikidata.org/wiki/Q122364546
+Francesco Hayez,Papa Urbano II predica la prima crociata,1835,dipinto,Gallerie d'Italia,Milano,esposta,sì,Comune,10,,Q66823480,https://www.wikidata.org/wiki/Q66823480
+Francesco Hayez,Pietro Rossi chiamato al comando dell'esercito veneziano,1820,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q19960402,https://www.wikidata.org/wiki/Q19960402
+Francesco Hayez,Ritratto della contessa Antonietta Negroni Prati Morosini,1872,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q123258249,https://www.wikidata.org/wiki/Q123258249
+Francesco Hayez,Ritratto della contessina Antonietta Negroni Prati Morosini bambina,1858,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q16596967,https://www.wikidata.org/wiki/Q16596967
+Francesco Hayez,Ritratto della famiglia Borri Stampa,1821,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q66827868,https://www.wikidata.org/wiki/Q66827868
+Francesco Hayez,Ritratto della fidanzata Vincenza Scaccia,1816,dipinto,Palazzo di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q122309412,https://www.wikidata.org/wiki/Q122309412
+Francesco Hayez,Ritratto di Alessandro Manzoni,1841,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q27948860,https://www.wikidata.org/wiki/Q27948860
+Francesco Hayez,Ritratto di Alessandro Manzoni (replica),1874,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q131613892,https://www.wikidata.org/wiki/Q131613892
+Francesco Hayez,Ritratto di Antonio Rosmini,1853,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q128799148,https://www.wikidata.org/wiki/Q128799148
+Francesco Hayez,Ritratto di Carlo della Bianca,1823,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q104665323,https://www.wikidata.org/wiki/Q104665323
+Francesco Hayez,Ritratto di Gian Giacomo Poldi Pezzoli,1851,dipinto,Museo Poldi Pezzoli,Milano,esposta,sì,Non comune,25,,Q66828061,https://www.wikidata.org/wiki/Q66828061
+Francesco Hayez,Ritratto di Giovanni David come Alessandro,1830,dipinto,Accademia di belle arti di Brera,Milano,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q19960346,https://www.wikidata.org/wiki/Q19960346
+Francesco Hayez,Ritratto di Massimo d'Azeglio,1860,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q131760478,https://www.wikidata.org/wiki/Q131760478
+Francesco Hayez,Ritratto di Matilde Juva Branca,1851,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q61816747,https://www.wikidata.org/wiki/Q61816747
+Francesco Hayez,Ritratto di Pietro Francesco Visconti Borromeo,1823,dipinto,Raccolte d'arte dell'Ospedale Maggiore,Milano,esposta,sì,Rara,50,Aperte di rado,Q135761987,https://www.wikidata.org/wiki/Q135761987
+Francesco Hayez,Ritratto di Pompeo Marchesi,1830,dipinto,Galleria d'arte moderna (GAM),Milano,esposta,sì,Comune,10,,Q123028551,https://www.wikidata.org/wiki/Q123028551
+Francesco Hayez,Ritratto di Teresa Manzoni Stampa Borri,1849,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q55869336,https://www.wikidata.org/wiki/Q55869336
+Francesco Hayez,Un vaso di fiori sulla finestra di un harem,1881,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q19960348,https://www.wikidata.org/wiki/Q19960348
+Francesco Hayez,Valenza Gradenigo davanti agli Inquisitori,1835,dipinto,Gallerie d'Italia,Milano,esposta,sì,Comune,10,,Q105001687,https://www.wikidata.org/wiki/Q105001687
+Francesco Hayez,Ritratto di giovane donna (Carolina Zucchi?),1850,dipinto,Musei civici,Monza,esposta,sì,Non comune,25,,Q105338100,https://www.wikidata.org/wiki/Q105338100
+Francesco Hayez,Ritratto della principessa di Sant'Antimo,1840,dipinto,Museo nazionale di San Martino,Napoli,esposta,sì,Non comune,25,,Q117539703,https://www.wikidata.org/wiki/Q117539703
+Francesco Hayez,Ulisse alla corte di Alcinoo,1815,dipinto,Museo nazionale di Capodimonte,Napoli,esposta,sì,Comune,10,,Q14614445,https://www.wikidata.org/wiki/Q14614445
+Francesco Hayez,Accusa segreta,1848,dipinto,Musei civici,Pavia,esposta,sì,Non comune,25,,Q57419692,https://www.wikidata.org/wiki/Q57419692
+Francesco Hayez,L'Addolorata,1842,dipinto,MAG Museo Alto Garda,Riva del Garda,esposta,sì,Non comune,25,,Q114901638,https://www.wikidata.org/wiki/Q114901638
+Francesco Hayez,Atleta trionfante,1813,dipinto,Accademia nazionale di San Luca,Roma,esposta,sì,Non comune,25,,Q3628259,https://www.wikidata.org/wiki/Q3628259
+Francesco Hayez,I vespri siciliani,1846,dipinto,Galleria Nazionale d'Arte Moderna,Roma,esposta,sì,Comune,10,,Q66379827,https://www.wikidata.org/wiki/Q66379827
+Francesco Hayez,Venere che scherza con due colombe,1830,dipinto,MART,Rovereto,esposta,sì,Non comune,25,,Q19960337,https://www.wikidata.org/wiki/Q19960337
+Francesco Hayez,Crociati assetati vicino a Gerusalemme,1850,dipinto,Palazzo Reale,Torino,esposta,sì,Comune,10,,Q20434671,https://www.wikidata.org/wiki/Q20434671
+Francesco Hayez,La sete dei crociati sotto Gerusalemme,1841,dipinto,Palazzo Reale,Torino,esposta,sì,Comune,10,,Q66828112,https://www.wikidata.org/wiki/Q66828112
+Francesco Hayez,Ritratto di Carolina Zucchi,1825,dipinto,GAM Torino,Torino,esposta,sì,Comune,10,,Q66828002,https://www.wikidata.org/wiki/Q66828002
+Francesco Hayez,L'ultimo bacio dato a Giulietta da Romeo,1823,dipinto,Villa Carlotta,Tremezzina,esposta,sì,Non comune,25,,Q19968904,https://www.wikidata.org/wiki/Q19968904
+Francesco Hayez,La vendetta di una rivale,,dipinto,Villa Carlotta,Tremezzina,esposta,sì,Non comune,25,,Q131617893,https://www.wikidata.org/wiki/Q131617893
+Francesco Hayez,Odalisca che legge,1866,dipinto,Villa Carlotta,Tremezzina,esposta,sì,Non comune,25,,Q131617902,https://www.wikidata.org/wiki/Q131617902
+Francesco Hayez,Pietro Rossi,1850,dipinto,Villa Carlotta,Tremezzina,esposta,sì,Non comune,25,,Q131617909,https://www.wikidata.org/wiki/Q131617909
+Francesco Hayez,Valenza Gradenigo sviene davanti all'inquisitore,1832,dipinto,Villa Carlotta,Tremezzina,esposta,sì,Non comune,25,,Q117236703,https://www.wikidata.org/wiki/Q117236703
+Francesco Hayez,Ritratto di famiglia,1807,dipinto,Pinacoteca civica,Treviso,esposta,sì,Non comune,25,,Q107122998,https://www.wikidata.org/wiki/Q107122998
+Francesco Hayez,Tamar di Giuda,1847,dipinto,Castello di Masnago,Varese,esposta,sì,Non comune,25,,Q122853872,https://www.wikidata.org/wiki/Q122853872
+Francesco Hayez,Aristide,1811,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q66023532,https://www.wikidata.org/wiki/Q66023532
+Francesco Hayez,Autoritratto a 88 anni,1878,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q66426240,https://www.wikidata.org/wiki/Q66426240
+Francesco Hayez,Autoritratto a settantuno anni,1862,dipinto,Accademia di belle arti,Venezia,esposta,sì,Rara,50,Verificare se esposta al pubblico,Q122802321,https://www.wikidata.org/wiki/Q122802321
+Francesco Hayez,Distruzione del tempio di Gerusalemme,1867,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q19960417,https://www.wikidata.org/wiki/Q19960417
+Francesco Hayez,I due Foscari (replica),,dipinto,Palazzo Ducale,Venezia,esposta,sì,Comune,10,,Q131825338,https://www.wikidata.org/wiki/Q131825338
+Francesco Hayez,Rinaldo e Armida,1812,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q66380185,https://www.wikidata.org/wiki/Q66380185
+Francesco Hayez,Solone,1812,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q120001348,https://www.wikidata.org/wiki/Q120001348
+Francesco Hayez,La Meditazione,1851,dipinto,GAM Verona,Verona,esposta,sì,Non comune,25,,Q19960344,https://www.wikidata.org/wiki/Q19960344
+Francesco Hayez,Pietro Rossi,,dipinto,Palazzo della Banca d'Italia,Milano,privata,no,Leggendaria,100,Sede non aperta al pubblico,Q138458007,https://www.wikidata.org/wiki/Q138458007
+Leonardo da Vinci,San Girolamo,1480,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,,Q972196,https://www.wikidata.org/wiki/Q972196
+Leonardo da Vinci,Adorazione dei Magi,1482,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q1638622,https://www.wikidata.org/wiki/Q1638622
+Leonardo da Vinci,Annunciazione,1472,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q1217213,https://www.wikidata.org/wiki/Q1217213
+Leonardo da Vinci,Battesimo di Cristo (con Verrocchio),1470,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q1059211,https://www.wikidata.org/wiki/Q1059211
+Leonardo da Vinci,Ritratto di musico,1485,dipinto,Pinacoteca Ambrosiana,Milano,esposta,sì,Comune,10,,Q2338404,https://www.wikidata.org/wiki/Q2338404
+Leonardo da Vinci,Sala delle Asse,1498,affresco,Castello Sforzesco,Milano,esposta,sì,Comune,10,,Q3800774,https://www.wikidata.org/wiki/Q3800774
+Leonardo da Vinci,Ultima Cena,1495,affresco,Santa Maria delle Grazie (Cenacolo Vinciano),Milano,esposta,sì,Rara,50,"Aggiunta a mano: su Wikidata non risulta con questi criteri. Prenotazione obbligatoria, spesso esaurita.",Q128910,https://www.wikidata.org/wiki/Q128910
+Leonardo da Vinci,La Scapigliata,1500,dipinto,Complesso monumentale della Pilotta,Parma,esposta,sì,Non comune,25,,Q797902,https://www.wikidata.org/wiki/Q797902
+Leonardo da Vinci,Annunciazione (predella),1475,dipinto,Galleria degli Uffizi,Firenze,dubbia,da decidere,Comune,10,Attribuzione discussa; da verificare la collocazione,Q3618186,https://www.wikidata.org/wiki/Q3618186
+Leonardo da Vinci,Tavola Doria,1503,dipinto,Galleria degli Uffizi,Firenze,dubbia,da decidere,Comune,10,Attribuzione discussa; verificare se esposta,Q2397593,https://www.wikidata.org/wiki/Q2397593
+Leonardo da Vinci,Ritratti dei duchi di Milano con i figli,1497,affresco,Santa Maria delle Grazie,Milano,dubbia,da decidere,Rara,50,"Ritratti quasi scomparsi, attribuzione discussa",Q3937378,https://www.wikidata.org/wiki/Q3937378
+Leonardo da Vinci,Testa di Cristo,1494,dipinto,Pinacoteca di Brera,Milano,dubbia,da decidere,Comune,10,Attribuzione discussa,Q3985169,https://www.wikidata.org/wiki/Q3985169
+Leonardo da Vinci,Ritratto lucano,1505,dipinto,museo delle antiche genti di Lucania,Vaglio Basilicata,dubbia,da decidere,Rara,50,Attribuzione respinta dalla maggior parte degli studiosi,Q6696013,https://www.wikidata.org/wiki/Q6696013
+Leonardo da Vinci,Battaglia di Anghiari,1503,affresco,"Salone dei Cinquecento, Palazzo Vecchio",Firenze,fantasma,no,Fantasma,200,Perduta (forse sotto gli affreschi del Vasari); si cattura nel Salone dei Cinquecento,Q2045726,https://www.wikidata.org/wiki/Q2045726
+Leonardo da Vinci,Leda col cigno,1505,dipinto,perduta (copia agli Uffizi),Firenze,fantasma,no,Fantasma,200,Originale perduto; si cattura davanti alla copia,Q3829345,https://www.wikidata.org/wiki/Q3829345
+Michelangelo Buonarroti,Cristo Redentore (Cristo di Bassano),1515,scultura,monastero di San Vincenzo,Bassano Romano,esposta,sì,Rara,50,,Q126182494,https://www.wikidata.org/wiki/Q126182494
+Michelangelo Buonarroti,Angelo reggicandelabro,1494,scultura,basilica di San Domenico (Arca di san Domenico),Bologna,esposta,sì,Non comune,25,,Q2354236,https://www.wikidata.org/wiki/Q2354236
+Michelangelo Buonarroti,San Petronio,1494,scultura,basilica di San Domenico (Arca di san Domenico),Bologna,esposta,sì,Non comune,25,,Q2429976,https://www.wikidata.org/wiki/Q2429976
+Michelangelo Buonarroti,San Procolo,1494,scultura,basilica di San Domenico (Arca di san Domenico),Bologna,esposta,sì,Non comune,25,,Q2418609,https://www.wikidata.org/wiki/Q2418609
+Michelangelo Buonarroti,Giudizio universale,1536,affresco,Cappella Sistina,Città del Vaticano,vaticano,sì,Comune,10,Anno su Wikidata errato (1600),Q567861,https://www.wikidata.org/wiki/Q567861
+Michelangelo Buonarroti,Pietà vaticana,1499,scultura,Basilica di San Pietro,Città del Vaticano,vaticano,sì,Comune,10,,Q235242,https://www.wikidata.org/wiki/Q235242
+Michelangelo Buonarroti,Volta della Cappella Sistina (ciclo),1508,affresco,Cappella Sistina,Città del Vaticano,vaticano,sì,Comune,10,"Oltre 60 scene su Wikidata (Creazione di Adamo, Sibille, Profeti...) raggruppate in una carta",Q500242,https://www.wikidata.org/wiki/Q500242
+Michelangelo Buonarroti,Aurora,1524,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q596683,https://www.wikidata.org/wiki/Q596683
+Michelangelo Buonarroti,Bacco,1497,scultura,Museo nazionale del Bargello,Firenze,esposta,sì,Comune,10,,Q1144620,https://www.wikidata.org/wiki/Q1144620
+Michelangelo Buonarroti,Battaglia dei centauri,1492,scultura,Casa Buonarroti,Firenze,esposta,sì,Non comune,25,,Q2313006,https://www.wikidata.org/wiki/Q2313006
+Michelangelo Buonarroti,Bruto,1538,scultura,Museo nazionale del Bargello,Firenze,esposta,sì,Comune,10,,Q2627551,https://www.wikidata.org/wiki/Q2627551
+Michelangelo Buonarroti,Crepuscolo,1524,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q1984954,https://www.wikidata.org/wiki/Q1984954
+Michelangelo Buonarroti,Crocifisso di Santo Spirito,1493,scultura,basilica di Santo Spirito,Firenze,esposta,sì,Non comune,25,,Q1572984,https://www.wikidata.org/wiki/Q1572984
+Michelangelo Buonarroti,David,1501,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q179900,https://www.wikidata.org/wiki/Q179900
+Michelangelo Buonarroti,David-Apollo,1530,scultura,Museo nazionale del Bargello,Firenze,esposta,sì,Comune,10,,Q2154351,https://www.wikidata.org/wiki/Q2154351
+Michelangelo Buonarroti,Dio fluviale (modello),1524,scultura,Casa Buonarroti,Firenze,esposta,sì,Non comune,25,,Q3708034,https://www.wikidata.org/wiki/Q3708034
+Michelangelo Buonarroti,Genio della Vittoria,1532,scultura,Palazzo Vecchio,Firenze,esposta,sì,Comune,10,,Q2438217,https://www.wikidata.org/wiki/Q2438217
+Michelangelo Buonarroti,Giorno,1526,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q1985154,https://www.wikidata.org/wiki/Q1985154
+Michelangelo Buonarroti,Giuliano de' Medici duca di Nemours,1526,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q3937559,https://www.wikidata.org/wiki/Q3937559
+Michelangelo Buonarroti,Lorenzo de' Medici duca di Urbino,1531,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q3937601,https://www.wikidata.org/wiki/Q3937601
+Michelangelo Buonarroti,Madonna Medici,1521,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q1985071,https://www.wikidata.org/wiki/Q1985071
+Michelangelo Buonarroti,Madonna della Scala,1490,scultura,Casa Buonarroti,Firenze,esposta,sì,Non comune,25,,Q2078173,https://www.wikidata.org/wiki/Q2078173
+Michelangelo Buonarroti,Notte,1526,scultura,"Sagrestia Nuova, Cappelle Medicee",Firenze,esposta,sì,Comune,10,,Q3878834,https://www.wikidata.org/wiki/Q3878834
+Michelangelo Buonarroti,Pietà Bandini,1550,scultura,Museo dell'Opera del Duomo,Firenze,esposta,sì,Comune,10,Anno su Wikidata errato (1600),Q2342843,https://www.wikidata.org/wiki/Q2342843
+Michelangelo Buonarroti,Prigione barbuto,1530,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q768337,https://www.wikidata.org/wiki/Q768337
+Michelangelo Buonarroti,Prigione che si ridesta,1530,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q3057936,https://www.wikidata.org/wiki/Q3057936
+Michelangelo Buonarroti,Prigione detto Atlante,1530,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q3057930,https://www.wikidata.org/wiki/Q3057930
+Michelangelo Buonarroti,Prigione giovane,1530,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q3177994,https://www.wikidata.org/wiki/Q3177994
+Michelangelo Buonarroti,San Matteo,1505,scultura,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q2500541,https://www.wikidata.org/wiki/Q2500541
+Michelangelo Buonarroti,Tondo Doni,1504,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q1473546,https://www.wikidata.org/wiki/Q1473546
+Michelangelo Buonarroti,Tondo Pitti,1504,scultura,Museo nazionale del Bargello,Firenze,esposta,sì,Comune,10,,Q785767,https://www.wikidata.org/wiki/Q785767
+Michelangelo Buonarroti,Pietà Rondanini,1564,scultura,Castello Sforzesco,Milano,esposta,sì,Comune,10,,Q1878666,https://www.wikidata.org/wiki/Q1878666
+Michelangelo Buonarroti,Cristo della Minerva,1521,scultura,basilica di Santa Maria sopra Minerva,Roma,esposta,sì,Non comune,25,Aggiunta a mano: manca su Wikidata con questi criteri,,
+Michelangelo Buonarroti,Lia,1545,scultura,basilica di San Pietro in Vincoli,Roma,esposta,sì,Non comune,25,Tomba di Giulio II,Q2437692,https://www.wikidata.org/wiki/Q2437692
+Michelangelo Buonarroti,Mosè,1515,scultura,basilica di San Pietro in Vincoli,Roma,esposta,sì,Non comune,25,Tomba di Giulio II,Q1989744,https://www.wikidata.org/wiki/Q1989744
+Michelangelo Buonarroti,Rachele,1545,scultura,basilica di San Pietro in Vincoli,Roma,esposta,sì,Non comune,25,Tomba di Giulio II,Q2437149,https://www.wikidata.org/wiki/Q2437149
+Michelangelo Buonarroti,San Paolo,1503,scultura,duomo di Siena (Altare Piccolomini),Siena,esposta,sì,Non comune,25,,Q1774735,https://www.wikidata.org/wiki/Q1774735
+Michelangelo Buonarroti,San Pietro,1501,scultura,duomo di Siena (Altare Piccolomini),Siena,esposta,sì,Non comune,25,,Q1774747,https://www.wikidata.org/wiki/Q1774747
+Michelangelo Buonarroti,San Pio,1501,scultura,duomo di Siena (Altare Piccolomini),Siena,esposta,sì,Non comune,25,,Q1981945,https://www.wikidata.org/wiki/Q1981945
+Michelangelo Buonarroti,Bozzetto per un crocifisso,1562,scultura,Casa Buonarroti,Firenze,dubbia,da decidere,Non comune,25,"Bozzetto, attribuzione discussa",Q3643325,https://www.wikidata.org/wiki/Q3643325
+Michelangelo Buonarroti,Due lottatori (bozzetto),1525,scultura,Casa Buonarroti,Firenze,dubbia,da decidere,Non comune,25,"Bozzetto, attribuzione discussa",Q3715995,https://www.wikidata.org/wiki/Q3715995
+Michelangelo Buonarroti,Pietà di Palestrina,1550,scultura,Galleria dell'Accademia,Firenze,dubbia,da decidere,Comune,10,Attribuzione respinta da molti studiosi,Q2255664,https://www.wikidata.org/wiki/Q2255664
+Michelangelo Buonarroti,Conversione di Saulo,1542,affresco,Cappella Paolina,Città del Vaticano,privata,no,Leggendaria,100,"Cappella del Palazzo Apostolico, normalmente chiusa al pubblico",Q2432043,https://www.wikidata.org/wiki/Q2432043
+Michelangelo Buonarroti,Crocifissione di san Pietro,1546,affresco,Cappella Paolina,Città del Vaticano,privata,no,Leggendaria,100,"Cappella del Palazzo Apostolico, normalmente chiusa al pubblico; anno su Wikidata errato",Q1886263,https://www.wikidata.org/wiki/Q1886263
+Paolo Uccello,Adorazione del Bambino,1430,affresco,basilica di San Martino Maggiore,Bologna,esposta,sì,Non comune,25,,Q15965560,https://www.wikidata.org/wiki/Q15965560
+Paolo Uccello,Battaglia di San Romano (Disarcionamento di Bernardino della Ciarda),1436,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q18564202,https://www.wikidata.org/wiki/Q18564202
+Paolo Uccello,Creazione e Peccato originale (Chiostro Verde),1420,affresco,"Chiostro Verde, Santa Maria Novella",Firenze,esposta,sì,Non comune,25,Ciclo della Genesi; il Diluvio va aggiunto (manca su Wikidata),Q15965567,https://www.wikidata.org/wiki/Q15965567
+Paolo Uccello,Monumento equestre a Giovanni Acuto,1436,affresco,Cattedrale di Santa Maria del Fiore,Firenze,esposta,sì,Comune,10,,Q2604153,https://www.wikidata.org/wiki/Q2604153
+Paolo Uccello,Orologio di Santa Maria del Fiore,1443,dipinto,Cattedrale di Santa Maria del Fiore,Firenze,esposta,sì,Comune,10,,Q3886134,https://www.wikidata.org/wiki/Q3886134
+Paolo Uccello,Predella di Quarate,1433,dipinto,Museo diocesano di Santo Stefano al Ponte,Firenze,esposta,sì,Rara,50,Museo con aperture rare,Q3910082,https://www.wikidata.org/wiki/Q3910082
+Paolo Uccello,Santa monaca con due fanciulle,1435,dipinto,Collezione Contini Bonacossi (Uffizi),Firenze,esposta,sì,Rara,50,Visitabile solo su prenotazione,Q3949271,https://www.wikidata.org/wiki/Q3949271
+Paolo Uccello,Storie dei santi eremiti,1447,affresco,basilica di San Miniato al Monte,Firenze,esposta,sì,Non comune,25,,Q3974449,https://www.wikidata.org/wiki/Q3974449
+Paolo Uccello,Tebaide,1460,dipinto,Galleria dell'Accademia,Firenze,esposta,sì,Comune,10,,Q3982380,https://www.wikidata.org/wiki/Q3982380
+Paolo Uccello,Beato Jacopone da Todi,1436,affresco,Museo di Palazzo Pretorio,Prato,esposta,sì,Non comune,25,,Q3637223,https://www.wikidata.org/wiki/Q3637223
+Paolo Uccello,Storie di santo Stefano (Lapidazione),1435,affresco,duomo di Prato,Prato,esposta,sì,Non comune,25,,Q111822168,https://www.wikidata.org/wiki/Q111822168
+Paolo Uccello,Miracolo dell'ostia profanata,1467,dipinto,Galleria nazionale delle Marche,Urbino,esposta,sì,Non comune,25,,Q16653993,https://www.wikidata.org/wiki/Q16653993
+Paolo Uccello,Madonna col Bambino,,affresco,Museo di San Marco,Firenze,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q77266493,https://www.wikidata.org/wiki/Q77266493
+Paolo Uccello,Madonna del Beccuto,1420,affresco,Museo di San Marco,Firenze,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q15974341,https://www.wikidata.org/wiki/Q15974341
+Paolo Uccello,Predella di Avane,,dipinto,Museo di San Marco,Firenze,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q131546444,https://www.wikidata.org/wiki/Q131546444
+Paolo Uccello,Sant'Antonio abate tra i santi Cosma e Damiano,1420,affresco,Accademia di belle arti,Firenze,dubbia,da decidere,Rara,50,Attribuzione discussa; accesso limitato,Q125820609,https://www.wikidata.org/wiki/Q125820609
+Piero della Francesca,Leggenda della Vera Croce (ciclo),1452,affresco,basilica di San Francesco,Arezzo,esposta,sì,Non comune,25,Ciclo di 17 scene raggruppate in una carta; visita su prenotazione,Q3732754,https://www.wikidata.org/wiki/Q3732754
+Piero della Francesca,Maria Maddalena,1460,affresco,cattedrale dei Santi Pietro e Donato,Arezzo,esposta,sì,Non comune,25,,Q3292111,https://www.wikidata.org/wiki/Q3292111
+Piero della Francesca,Dittico dei duchi di Urbino,1470,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,Su Wikidata anche come due ritratti separati: unificati,Q1227359,https://www.wikidata.org/wiki/Q1227359
+Piero della Francesca,Pala di Brera,1472,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q1796098,https://www.wikidata.org/wiki/Q1796098
+Piero della Francesca,San Nicola da Tolentino,1456,dipinto,Museo Poldi Pezzoli,Milano,esposta,sì,Non comune,25,,Q3947720,https://www.wikidata.org/wiki/Q3947720
+Piero della Francesca,Madonna del Parto,1455,affresco,Museo della Madonna del Parto,Monterchi,esposta,sì,Rara,50,Piccolo borgo fuori dai circuiti,Q723479,https://www.wikidata.org/wiki/Q723479
+Piero della Francesca,Polittico di Sant'Antonio,1469,dipinto,Galleria nazionale dell'Umbria,Perugia,esposta,sì,Non comune,25,Su Wikidata anche l'Annunciazione separata: unificate,Q3395793,https://www.wikidata.org/wiki/Q3395793
+Piero della Francesca,Sigismondo Malatesta davanti a san Sigismondo,1451,affresco,Tempio Malatestiano,Rimini,esposta,sì,Non comune,25,,Q3960322,https://www.wikidata.org/wiki/Q3960322
+Piero della Francesca,Polittico della Misericordia,1460,dipinto,Museo civico di Sansepolcro,Sansepolcro,esposta,sì,Non comune,25,,Q2247307,https://www.wikidata.org/wiki/Q2247307
+Piero della Francesca,Resurrezione,1463,affresco,Museo civico di Sansepolcro,Sansepolcro,esposta,sì,Non comune,25,,Q430293,https://www.wikidata.org/wiki/Q430293
+Piero della Francesca,San Giuliano,1454,affresco,Museo civico di Sansepolcro,Sansepolcro,esposta,sì,Non comune,25,,Q3947322,https://www.wikidata.org/wiki/Q3947322
+Piero della Francesca,San Ludovico di Tolosa,1460,affresco,Museo civico di Sansepolcro,Sansepolcro,esposta,sì,Non comune,25,,Q3947516,https://www.wikidata.org/wiki/Q3947516
+Piero della Francesca,Flagellazione di Cristo,1459,dipinto,Galleria nazionale delle Marche,Urbino,esposta,sì,Non comune,25,,Q1212920,https://www.wikidata.org/wiki/Q1212920
+Piero della Francesca,Madonna di Senigallia,1476,dipinto,Galleria nazionale delle Marche,Urbino,esposta,sì,Non comune,25,Wikidata indica Senigallia (luogo d'origine),Q1092638,https://www.wikidata.org/wiki/Q1092638
+Piero della Francesca,San Girolamo e il donatore Girolamo Amadi,1440,dipinto,Gallerie dell'Accademia,Venezia,esposta,sì,Comune,10,,Q3947293,https://www.wikidata.org/wiki/Q3947293
+Piero della Francesca,Affreschi della sacrestia di Loreto,,affresco,basilica della Santa Casa,Loreto,dubbia,da decidere,Non comune,25,Attribuzione a Piero molto discussa,Q117337740,https://www.wikidata.org/wiki/Q117337740
+Piero della Francesca,Storie della Vergine in Sant'Egidio,,affresco,Sant'Egidio (perduto),Firenze,fantasma,no,Fantasma,200,Ciclo perduto; si cattura all'ospedale di Santa Maria Nuova,Q131501821,https://www.wikidata.org/wiki/Q131501821
+Raffaello Sanzio,San Sebastiano,1501,dipinto,Accademia Carrara,Bergamo,esposta,sì,Non comune,25,,Q2343939,https://www.wikidata.org/wiki/Q2343939
+Raffaello Sanzio,Estasi di santa Cecilia,1514,dipinto,Pinacoteca Nazionale di Bologna,Bologna,esposta,sì,Non comune,25,,Q1103801,https://www.wikidata.org/wiki/Q1103801
+Raffaello Sanzio,Angelo (Pala di San Nicola da Tolentino),1500,dipinto,Pinacoteca Tosio Martinengo,Brescia,esposta,sì,Non comune,25,,Q3616853,https://www.wikidata.org/wiki/Q3616853
+Raffaello Sanzio,Cristo benedicente,1505,dipinto,Pinacoteca Tosio Martinengo,Brescia,esposta,sì,Non comune,25,,Q1131153,https://www.wikidata.org/wiki/Q1131153
+Raffaello Sanzio,Madonna di Foligno,1511,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,,Q2610709,https://www.wikidata.org/wiki/Q2610709
+Raffaello Sanzio,Pala degli Oddi (Incoronazione della Vergine),1502,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,,Q2344357,https://www.wikidata.org/wiki/Q2344357
+Raffaello Sanzio,"Predella Baglioni (Fede, Speranza, Carità)",1507,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,Tre tavolette raggruppate,Q3658723,https://www.wikidata.org/wiki/Q3658723
+Raffaello Sanzio,Sala di Costantino,1520,affresco,Musei Vaticani,Città del Vaticano,vaticano,sì,Comune,10,Eseguita soprattutto dalla bottega,Q1996917,https://www.wikidata.org/wiki/Q1996917
+Raffaello Sanzio,Stanza dell'Incendio di Borgo,1514,affresco,Musei Vaticani,Città del Vaticano,vaticano,sì,Comune,10,Affreschi della stanza raggruppati in una carta,Q2531790,https://www.wikidata.org/wiki/Q2531790
+Raffaello Sanzio,"Stanza della Segnatura (Scuola di Atene, Disputa, Parnaso)",1509,affresco,Musei Vaticani,Città del Vaticano,vaticano,sì,Comune,10,Affreschi della stanza raggruppati in una carta,Q186953,https://www.wikidata.org/wiki/Q186953
+Raffaello Sanzio,Stanza di Eliodoro,1511,affresco,Musei Vaticani,Città del Vaticano,vaticano,sì,Comune,10,Affreschi della stanza raggruppati in una carta,Q774018,https://www.wikidata.org/wiki/Q774018
+Raffaello Sanzio,Trasfigurazione,1518,dipinto,Pinacoteca vaticana,Città del Vaticano,vaticano,sì,Comune,10,,Q2344437,https://www.wikidata.org/wiki/Q2344437
+Raffaello Sanzio,Stendardo della Santissima Trinità,1499,dipinto,Pinacoteca comunale,Città di Castello,esposta,sì,Rara,50,,Q3498200,https://www.wikidata.org/wiki/Q3498200
+Raffaello Sanzio,Autoritratto,1505,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q555821,https://www.wikidata.org/wiki/Q555821
+Raffaello Sanzio,La Gravida,1506,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q2276546,https://www.wikidata.org/wiki/Q2276546
+Raffaello Sanzio,La Velata,1516,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q948034,https://www.wikidata.org/wiki/Q948034
+Raffaello Sanzio,Madonna del Baldacchino,1507,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q3842604,https://www.wikidata.org/wiki/Q3842604
+Raffaello Sanzio,Madonna del Cardellino,1505,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2344505,https://www.wikidata.org/wiki/Q2344505
+Raffaello Sanzio,Madonna del Granduca,1506,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q2035209,https://www.wikidata.org/wiki/Q2035209
+Raffaello Sanzio,Madonna dell'Impannata,1513,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q2052275,https://www.wikidata.org/wiki/Q2052275
+Raffaello Sanzio,Madonna della Seggiola,1513,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q966681,https://www.wikidata.org/wiki/Q966681
+Raffaello Sanzio,Ritratto del cardinal Bibbiena,1516,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q3399492,https://www.wikidata.org/wiki/Q3399492
+Raffaello Sanzio,Ritratto di Agnolo Doni,1506,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2515309,https://www.wikidata.org/wiki/Q2515309
+Raffaello Sanzio,Ritratto di Elisabetta Gonzaga,1504,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2627028,https://www.wikidata.org/wiki/Q2627028
+Raffaello Sanzio,Ritratto di Giulio II,1512,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q19516146,https://www.wikidata.org/wiki/Q19516146
+Raffaello Sanzio,Ritratto di Guidobaldo da Montefeltro,1506,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q3013751,https://www.wikidata.org/wiki/Q3013751
+Raffaello Sanzio,Ritratto di Leone X con due cardinali,1518,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,Wikidata indica la Palatina: verificare,Q2610729,https://www.wikidata.org/wiki/Q2610729
+Raffaello Sanzio,Ritratto di Maddalena Strozzi,1506,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,,Q2607055,https://www.wikidata.org/wiki/Q2607055
+Raffaello Sanzio,Ritratto di Tommaso Inghirami,1510,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q428274,https://www.wikidata.org/wiki/Q428274
+Raffaello Sanzio,Ritratto di giovane con la mela,1504,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,Attribuzione discussa,Q2713823,https://www.wikidata.org/wiki/Q2713823
+Raffaello Sanzio,San Giovannino,1518,dipinto,Galleria degli Uffizi,Firenze,esposta,sì,Comune,10,In gran parte di bottega,Q3463871,https://www.wikidata.org/wiki/Q3463871
+Raffaello Sanzio,Visione di Ezechiele,1518,dipinto,Galleria Palatina,Firenze,esposta,sì,Comune,10,,Q1134281,https://www.wikidata.org/wiki/Q1134281
+Raffaello Sanzio,Sposalizio della Vergine,1504,dipinto,Pinacoteca di Brera,Milano,esposta,sì,Comune,10,,Q2030685,https://www.wikidata.org/wiki/Q2030685
+Raffaello Sanzio,Eterno tra cherubini e testa di Madonna,1500,dipinto,Museo nazionale di Capodimonte,Napoli,esposta,sì,Comune,10,Frammento della Pala di San Nicola da Tolentino,Q3733689,https://www.wikidata.org/wiki/Q3733689
+Raffaello Sanzio,Madonna del Divino Amore,1516,dipinto,Museo nazionale di Capodimonte,Napoli,esposta,sì,Comune,10,Con la bottega,Q3842605,https://www.wikidata.org/wiki/Q3842605
+Raffaello Sanzio,Ritratto del cardinale Alessandro Farnese,1509,dipinto,Museo nazionale di Capodimonte,Napoli,esposta,sì,Comune,10,,Q2635552,https://www.wikidata.org/wiki/Q2635552
+Raffaello Sanzio,Dama col liocorno,1505,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2344396,https://www.wikidata.org/wiki/Q2344396
+Raffaello Sanzio,Deposizione Borghese,1507,dipinto,Galleria Borghese,Roma,esposta,sì,Comune,10,,Q2500226,https://www.wikidata.org/wiki/Q2500226
+Raffaello Sanzio,La Fornarina,1519,dipinto,Palazzo Barberini,Roma,esposta,sì,Comune,10,,Q153441,https://www.wikidata.org/wiki/Q153441
+Raffaello Sanzio,Loggia di Amore e Psiche,1517,affresco,Villa Farnesina,Roma,esposta,sì,Non comune,25,Con la bottega; scene raggruppate,Q121689728,https://www.wikidata.org/wiki/Q121689728
+Raffaello Sanzio,Profeta Isaia,1512,affresco,basilica di Sant'Agostino in Campo Marzio,Roma,esposta,sì,Non comune,25,,Q3226022,https://www.wikidata.org/wiki/Q3226022
+Raffaello Sanzio,Ritratto di Andrea Navagero e Agostino Beazzano,1516,dipinto,Galleria Doria Pamphilj,Roma,esposta,sì,Comune,10,,Q2535482,https://www.wikidata.org/wiki/Q2535482
+Raffaello Sanzio,Sibille e angeli,1514,affresco,chiesa di Santa Maria della Pace,Roma,esposta,sì,Non comune,25,,Q1639900,https://www.wikidata.org/wiki/Q1639900
+Raffaello Sanzio,Trionfo di Galatea,1512,affresco,Villa Farnesina,Roma,esposta,sì,Non comune,25,,Q2344368,https://www.wikidata.org/wiki/Q2344368
+Raffaello Sanzio,La Muta,1507,dipinto,Galleria nazionale delle Marche,Urbino,esposta,sì,Non comune,25,,Q919861,https://www.wikidata.org/wiki/Q919861
+Raffaello Sanzio,Madonna di Monteluce,1525,dipinto,Pinacoteca vaticana,Città del Vaticano,dubbia,da decidere,Comune,10,Completata dalla bottega dopo la morte di Raffaello,Q131690612,https://www.wikidata.org/wiki/Q131690612
+Raffaello Sanzio,Perla di Modena,1518,dipinto,Galleria Estense,Modena,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q521680,https://www.wikidata.org/wiki/Q521680
+Raffaello Sanzio,Cristo in pietà,1500,dipinto,Galleria nazionale dell'Umbria,Perugia,dubbia,da decidere,Non comune,25,Attribuzione discussa,Q131433288,https://www.wikidata.org/wiki/Q131433288
+Raffaello Sanzio,Ritratto virile,1503,dipinto,Galleria Borghese,Roma,dubbia,da decidere,Comune,10,Attribuzione discussa,Q2629715,https://www.wikidata.org/wiki/Q2629715
+Raffaello Sanzio,Logge di Raffaello,1517,affresco,Palazzo Apostolico,Città del Vaticano,privata,no,Leggendaria,100,Visitabili solo in rare occasioni,Q3620750,https://www.wikidata.org/wiki/Q3620750
