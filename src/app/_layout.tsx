@@ -1,23 +1,25 @@
-import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router';
+import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
-import { useColorScheme } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
+import { useEffect } from 'react';
 
-import { AnimatedSplashOverlay } from '@/components/animated-icon';
+import { Ink } from '@/identity/grand-tour';
 import { CollectionProvider } from '@/state/collection';
 
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
-  const colorScheme = useColorScheme();
+  useEffect(() => {
+    SplashScreen.hideAsync();
+  }, []);
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <CollectionProvider>
-        <AnimatedSplashOverlay />
-        <Stack>
-          <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-          <Stack.Screen name="artist/[id]" options={{ title: '' }} />
-        </Stack>
-      </CollectionProvider>
-    </ThemeProvider>
+    <CollectionProvider>
+      <StatusBar style="dark" />
+      <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: Ink.paper } }}>
+        <Stack.Screen name="index" options={{ contentStyle: { backgroundColor: Ink.night } }} />
+        <Stack.Screen name="riconosci" options={{ presentation: 'modal' }} />
+        <Stack.Screen name="timbro/[id]" options={{ animation: 'fade' }} />
+      </Stack>
+    </CollectionProvider>
   );
 }
