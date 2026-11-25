@@ -17,6 +17,8 @@ export type Work = {
   rarity: Rarity;
   points: number;
   note: string;
+  /** Wikimedia Commons file name of the reference image, if any. */
+  image?: string | null;
 };
 
 export const WORKS = raw as Work[];
@@ -51,4 +53,10 @@ export function searchWorks(query: string, limit = 30): Work[] {
     const hay = norm(`${w.title} ${w.artist} ${w.place} ${w.city}`);
     return terms.every((t) => hay.includes(t));
   }).slice(0, limit);
+}
+
+/** URL of the work's reference image on Wikimedia Commons, resized server-side. */
+export function imageUrl(w: Work, width = 400): string | null {
+  if (!w.image) return null;
+  return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(w.image)}?width=${width}`;
 }

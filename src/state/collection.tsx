@@ -7,6 +7,8 @@ export type Capture = {
   workId: string;
   photoUri: string | null;
   note: string;
+  /** City where the capture happened (from the location), if known. */
+  city?: string | null;
   capturedAt: string; // ISO date
 };
 

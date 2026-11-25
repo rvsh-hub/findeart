@@ -35,3 +35,10 @@ Non ancora presenti: riconoscimento automatico dalla foto, controllo della posiz
 - `src/app/artist/[id].tsx`: la pagina dell'artista
 - `src/data/catalog.ts`: tipi, rarità e ricerca nel catalogo
 - `src/state/collection.tsx`: le carte catturate, salvate sul telefono
+
+## Versione 2: Taccuino del Grand Tour
+
+- L'app si apre sulla **fotocamera**: inquadri l'opera e premi il sigillo.
+- Il **riconoscimento** usa la posizione per proporre solo le opere della città in cui sei (`src/recognition`). Il prossimo passo è l'AI visiva online, che sceglierà l'opera da sola.
+- Ogni cattura diventa un **timbro** nel **Taccuino**, con il timbro postale della città. Il **Passaporto** raccoglie punti, rarità e città visitate.
+- Colori, caratteri e rarità dell'identità sono tutti in `src/identity/grand-tour.ts`.
