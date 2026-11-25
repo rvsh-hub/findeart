@@ -12,7 +12,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Musei Vaticani: decidere se il Vaticano rientra nel Pokédex \"Italia\". Anno su Wikidata errato (1700), corretto in 1603"
+  "note": "Musei Vaticani: decidere se il Vaticano rientra nel Pokédex \"Italia\". Anno su Wikidata errato (1700), corretto in 1603",
+  "image": "The Entombment of Christ-Caravaggio (c.1602-3).jpg"
  },
  {
   "id": "Q2275371",
@@ -27,7 +28,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Saint Francis in Meditation-Caravaggio (Cremona).jpg"
  },
  {
   "id": "Q2429754",
@@ -42,7 +44,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Sleeping Cupid-Caravaggio (1608).jpg"
  },
  {
   "id": "Q2011510",
@@ -57,7 +60,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Baco, por Caravaggio.jpg"
  },
  {
   "id": "Q2293905",
@@ -72,7 +76,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Anno su Wikidata (1590) poco preciso: circa 1597"
+  "note": "Anno su Wikidata (1590) poco preciso: circa 1597",
+  "image": "Caravaggio - Medusa - Google Art Project.jpg"
  },
  {
   "id": "Q131543672",
@@ -87,7 +92,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": "Boy Bitten by a Lizard by Caravaggio (Florence).jpg"
  },
  {
   "id": "Q1113749",
@@ -102,7 +108,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Portrait of Fra Antonio Martelli-Caravaggio (1610).jpg"
  },
  {
   "id": "Q2284829",
@@ -117,7 +124,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Sacrifice of Isaac-Caravaggio (Uffizi).jpg"
  },
  {
   "id": "Q2327715",
@@ -132,7 +140,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": "Adoration of the Shepherds-Caravaggio (1609).jpg"
  },
  {
   "id": "Q2277635",
@@ -147,7 +156,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo Caravaggio 006.jpg"
  },
  {
   "id": "Q2270291",
@@ -162,7 +172,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio - Natura morta con frutta (collezione dell’Ambrosiana).jpg"
  },
  {
   "id": "Q2097931",
@@ -177,7 +188,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio — Supper at Emmaus.jpg"
  },
  {
   "id": "Q2264942",
@@ -192,7 +204,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Wikidata indica \"deposito del museo\": da verificare, di norma esposta a Capodimonte"
+  "note": "Wikidata indica \"deposito del museo\": da verificare, di norma esposta a Capodimonte",
+  "image": "Caravaggio - La Flagellazione di Cristo.jpg"
  },
  {
   "id": "Q1132486",
@@ -207,7 +220,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Gallerie d'Italia di Napoli (città mancante su Wikidata)"
+  "note": "Gallerie d'Italia di Napoli (città mancante su Wikidata)",
+  "image": "The Martyrdom of Saint Ursula-Caravaggio (1610).jpg"
  },
  {
   "id": "Q2626595",
@@ -222,7 +236,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "The Seven Works of Mercy-Caravaggio (1607).jpg"
  },
  {
   "id": "Q2293936",
@@ -237,7 +252,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio - Autoritratto in veste di Bacco (Bacchino malato), 1595 circa, 534.jpg"
  },
  {
   "id": "Q16534183",
@@ -252,7 +268,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "The Fortune Teller-Caravaggio (Rome).jpg"
  },
  {
   "id": "Q2273517",
@@ -267,7 +284,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Conversion on the Way to Damascus-Caravaggio (c.1600-1).jpg"
  },
  {
   "id": "Q685916",
@@ -282,7 +300,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Crucifixion of Saint Peter-Caravaggio (c.1600).jpg"
  },
  {
   "id": "Q2627056",
@@ -297,7 +316,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "David with the Head of Goliath-Caravaggio (1610).jpg"
  },
  {
   "id": "Q2610936",
@@ -312,7 +332,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Boy with a Basket of Fruit-Caravaggio (1593).jpg"
  },
  {
   "id": "Q2470123",
@@ -327,7 +348,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Judith Beheading Holofernes - Caravaggio.jpg"
  },
  {
   "id": "Q2732274",
@@ -342,7 +364,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Penitent Magdalene-Caravaggio (1594-6).jpg"
  },
  {
   "id": "Q2715302",
@@ -357,7 +380,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Madonna and Child with St. Anne-Caravaggio (c. 1605-6).jpg"
  },
  {
   "id": "Q2713203",
@@ -372,7 +396,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Madonna di Loreto-Caravaggio (c.1604-6).jpg"
  },
  {
   "id": "Q2338417",
@@ -387,7 +412,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Mancava dalla prima estrazione perché non ha la collezione su Wikidata"
+  "note": "Mancava dalla prima estrazione perché non ha la collezione su Wikidata",
+  "image": "Caravaggio — The Martyrdom of Saint Matthew.jpg"
  },
  {
   "id": "Q745098",
@@ -402,7 +428,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Rest on the Flight into Egypt-Caravaggio (c.1597).jpg"
  },
  {
   "id": "Q2275353",
@@ -417,7 +444,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "In deposito presso il Museo dei Cappuccini di via Veneto"
+  "note": "In deposito presso il Museo dei Cappuccini di via Veneto",
+  "image": "Caravaggio - San Francesco in meditazione (1606-1607).jpg"
  },
  {
   "id": "Q3463869",
@@ -432,7 +460,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio - San Giovanni Battista (Galleria Corsini).jpg"
  },
  {
   "id": "Q9015206",
@@ -447,7 +476,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "John the Baptist (Galleria Borghese)-Caravaggio (1610).jpg"
  },
  {
   "id": "Q3223625",
@@ -462,7 +492,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo Merisi da Caravaggio, Saint John the Baptist (Youth with a Ram) (c. 1602).jpg"
  },
  {
   "id": "Q2715177",
@@ -477,7 +508,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Saint Jerome Writing-Caravaggio (1605-6).jpg"
  },
  {
   "id": "Q2337873",
@@ -492,7 +524,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio - La inspiración de San Mateo (San Luigi dei Francesi, Roma).jpg"
  },
  {
   "id": "Q969377",
@@ -507,7 +540,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Caravaggio — The Calling of Saint Matthew.jpg"
  },
  {
   "id": "Q1132479",
@@ -522,7 +556,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": "Burial of Saint Lucy-Caravaggio (1608).jpg"
  },
  {
   "id": "Q102641148",
@@ -537,7 +572,8 @@
   "counts": "maybe",
   "rarity": "rare",
   "points": 50,
-  "note": "Attribuzione discussa (possibile copia)"
+  "note": "Attribuzione discussa (possibile copia)",
+  "image": "CARAVAGGIO, A boy peeling fruit (1593).jpg"
  },
  {
   "id": "Q3202347",
@@ -552,7 +588,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Toothpuller.jpg"
  },
  {
   "id": "Q2325834",
@@ -567,7 +604,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Caravaggio (Michelangelo Merisi) - Ecce Homo - Google Art Project.jpg"
  },
  {
   "id": "Q67204634",
@@ -582,7 +620,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa; soggetto incerto"
+  "note": "Attribuzione discussa; soggetto incerto",
+  "image": "Michelangelo Merisi known as Caravaggio - Portrait of a gentleman (Scipione Borghese?) - Google Art Project.jpg"
  },
  {
   "id": "Q1448701",
@@ -597,7 +636,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "CaravaggioCrowning01.jpg"
  },
  {
   "id": "Q746716",
@@ -612,7 +652,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Caravaggio - Narciso (1597-1599).jpg"
  },
  {
   "id": "Q2734111",
@@ -627,7 +668,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa; da verificare se esposta"
+  "note": "Attribuzione discussa; da verificare se esposta",
+  "image": "Portrait of Maffeo Barberini-Caravaggio (c. 1598).jpg"
  },
  {
   "id": "Q131613900",
@@ -642,7 +684,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Considerata replica o copia della versione dei Musei Capitolini"
+  "note": "Considerata replica o copia della versione dei Musei Capitolini",
+  "image": "Michelangelo Merisi da Caravaggio, Saint John the Baptist (Youth with a Ram) (c. 1602, Yorck Project).jpg"
  },
  {
   "id": "Q16596970",
@@ -657,7 +700,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Collezione privata; attribuzione discussa"
+  "note": "Collezione privata; attribuzione discussa",
+  "image": "Portrait of Pope Urban VIII-Caravaggio (Maffeo Barberini).jpg"
  },
  {
   "id": "Q1433194",
@@ -672,7 +716,8 @@
   "counts": "no",
   "rarity": "ghost",
   "points": 200,
-  "note": "Rubata nel 1969, mai ritrovata; nell'oratorio c'è una riproduzione"
+  "note": "Rubata nel 1969, mai ritrovata; nell'oratorio c'è una riproduzione",
+  "image": "Caravaggio-Nativity(1600).jpg"
  },
  {
   "id": "Q1448203",
@@ -687,7 +732,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Collezione privata Odescalchi, visibile solo in occasioni particolari"
+  "note": "Collezione privata Odescalchi, visibile solo in occasioni particolari",
+  "image": "The Conversion of Saint Paul-Caravaggio (c. 1600-1).jpg"
  },
  {
   "id": "Q1122537",
@@ -702,7 +748,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Dipinto murale nel Casino dell'Aurora, villa privata visitabile raramente"
+  "note": "Dipinto murale nel Casino dell'Aurora, villa privata visitabile raramente",
+  "image": "Caravaggio Jupiter Neptune Pluto.jpg"
  },
  {
   "id": "Q1460271",
@@ -717,7 +764,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Da verificare: Wikidata la colloca alla Galleria Borghese, ma risulta nella collezione privata della famiglia Borghese"
+  "note": "Da verificare: Wikidata la colloca alla Galleria Borghese, ma risulta nella collezione privata della famiglia Borghese",
+  "image": "Pope Paul V.jpg"
  },
  {
   "id": "Q577248",
@@ -732,7 +780,8 @@
   "counts": "no",
   "rarity": "ghost",
   "points": 200,
-  "note": "Prima versione, distrutta a Berlino nel 1945: errore di dati che la colloca a Roma"
+  "note": "Prima versione, distrutta a Berlino nel 1945: errore di dati che la colloca a Roma",
+  "image": "Caravaggio (Michelangelo Merisi) (1571 - 1610) - The Evangelist Matthew - 365 - Gemäldegalerie.jpg"
  },
  {
   "id": "Q132397741",
@@ -747,7 +796,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q122852809",
@@ -762,7 +812,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 055.jpg"
  },
  {
   "id": "Q15617780",
@@ -777,7 +828,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 013.jpg"
  },
  {
   "id": "Q66025048",
@@ -792,7 +844,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 061.jpg"
  },
  {
   "id": "Q52084102",
@@ -807,7 +860,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 057.jpg"
  },
  {
   "id": "Q116189106",
@@ -822,7 +876,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - The Two Foscari - WGA11217.jpg"
  },
  {
   "id": "Q115951184",
@@ -837,7 +892,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Ritratto del conte colonnello Francesco Teodoro Arese Lucini in carcere.jpg"
  },
  {
   "id": "Q137604105",
@@ -852,7 +908,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 056.jpg"
  },
  {
   "id": "Q122361268",
@@ -867,7 +924,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Collezione ospedaliera, accesso limitato"
+  "note": "Collezione ospedaliera, accesso limitato",
+  "image": "Portrait of Countess Teresa Zumali Marsili with her son Giuseppe (1833), by Francesco Hayez.jpg"
  },
  {
   "id": "Q66023806",
@@ -882,7 +940,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Autoritratto a 57 anni by Francesco Hayez.jpg"
  },
  {
   "id": "Q19960339",
@@ -897,7 +956,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Self-portrait with Tiger and Lion - Google Art Project.jpg"
  },
  {
   "id": "Q18924970",
@@ -912,7 +972,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Self Portrait in a Group of Friend - Google Art Project.jpg"
  },
  {
   "id": "Q19897001",
@@ -927,7 +988,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Francesco Hayez 054.jpg"
  },
  {
   "id": "Q19863020",
@@ -942,7 +1004,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Hayez, Betsabea al bagno (1845).jpg"
  },
  {
   "id": "Q131674361",
@@ -957,7 +1020,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q66823482",
@@ -972,7 +1036,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - The Last Moments of Doge Marin Faliero - WGA11223.jpg"
  },
  {
   "id": "Q105001950",
@@ -987,7 +1052,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Artgate Fondazione Cariplo - Hayez Francesco, L'ultimo abboccamento di Giacomo Foscari figlio del doge Giuseppe.jpg"
  },
  {
   "id": "Q1195035",
@@ -1002,7 +1068,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "El Beso (Pinacoteca de Brera, Milán, 1859).jpg"
  },
  {
   "id": "Q124356817",
@@ -1017,7 +1084,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Hayez, Il doge Gritti, 1842.png"
  },
  {
   "id": "Q19960406",
@@ -1032,7 +1100,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - La Maddalena penitente.jpg"
  },
  {
   "id": "Q3821882",
@@ -1047,7 +1116,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Congiura dei Lampugnani, Hayez.jpg"
  },
  {
   "id": "Q66091376",
@@ -1062,7 +1132,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Artgate Fondazione Cariplo - Hayez Francesco, La morte di Abradate.jpg"
  },
  {
   "id": "Q66074053",
@@ -1077,7 +1148,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Francesco Hayez - Laocoonte.jpg"
  },
  {
   "id": "Q28547164",
@@ -1092,7 +1164,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Malinconia by Francesco Hayez.jpg"
  },
  {
   "id": "Q19960403",
@@ -1107,7 +1180,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 060.jpg"
  },
  {
   "id": "Q122364546",
@@ -1122,7 +1196,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Francesco Hayez (1791-1882), Odalisca nel sonno, 1867, olio su tela, cm 93 x 75, Accademia di Brera.jpg"
  },
  {
   "id": "Q66823480",
@@ -1137,7 +1212,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Artgate Fondazione Cariplo - Hayez Francesco, Papa Urbano II sulla piazza di Clermont predica la prima crociata.jpg"
  },
  {
   "id": "Q19960402",
@@ -1152,7 +1228,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Pietro Rossi appelé à commander l’armée vénitienne-Francesco Hayez-MBA Lyon 2014.jpeg"
  },
  {
   "id": "Q123258249",
@@ -1167,7 +1244,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 030.jpg"
  },
  {
   "id": "Q16596967",
@@ -1182,7 +1260,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Ritratto della contessina Antonietta Negroni Prati Morosini.jpg"
  },
  {
   "id": "Q66827868",
@@ -1197,7 +1276,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 035.jpg"
  },
  {
   "id": "Q122309412",
@@ -1212,7 +1292,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Hayez - Portrait of the wife Vincenza Scaccia, 1816.jpg"
  },
  {
   "id": "Q27948860",
@@ -1227,7 +1308,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Ritratto di Alessandro Manzoni.jpg"
  },
  {
   "id": "Q131613892",
@@ -1242,7 +1324,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q128799148",
@@ -1257,7 +1340,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez (1791-1882) Ritratto di Antonio Rosmini (1853-1856) Galleria d'Arte Moderna di Milano.jpg"
  },
  {
   "id": "Q104665323",
@@ -1272,7 +1356,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez (Venezia 1791 - Milano 1882) - ritratto di Carlo della Bianca (1823) -Pinacoteca di Brera - Milano.jpg"
  },
  {
   "id": "Q66828061",
@@ -1287,7 +1372,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Portrait of Gian Giacomo Poldi Pezzoli - Google Art Project.jpg"
  },
  {
   "id": "Q19960346",
@@ -1302,7 +1388,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Giovanni David Portrait by Francesco Hayez.jpg"
  },
  {
   "id": "Q131760478",
@@ -1317,7 +1404,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Ritratto di Massimo d’Azeglio.jpg"
  },
  {
   "id": "Q61816747",
@@ -1332,7 +1420,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez (1791-1882) Ritratto di Matilde Juva Branca (1851) Galleria d'Arte Moderna di Milano.jpg"
  },
  {
   "id": "Q135761987",
@@ -1347,7 +1436,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Aperte di rado"
+  "note": "Aperte di rado",
+  "image": "Hayez - Ritratto di Pietro Francesco Visconti Borromeo, 3n120-00122, Provincia di Milano.jpg"
  },
  {
   "id": "Q123028551",
@@ -1362,7 +1452,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 049.jpg"
  },
  {
   "id": "Q55869336",
@@ -1377,7 +1468,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Ritratto di Teresa Manzoni Stampa Borri by Francesco Hayez.jpg"
  },
  {
   "id": "Q19960348",
@@ -1392,7 +1484,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 007.jpg"
  },
  {
   "id": "Q105001687",
@@ -1407,7 +1500,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Artgate Fondazione Cariplo - Hayez Francesco, Valenza Gradenigo.jpg"
  },
  {
   "id": "Q105338100",
@@ -1422,7 +1516,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Carolina Zucchi, Hayez.jpg"
  },
  {
   "id": "Q117539703",
@@ -1437,7 +1532,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Ritratto di Sarah Louise Strachan Ruffo di Motta e Bagnara, Principessa di Sant’Antimo.jpg"
  },
  {
   "id": "Q14614445",
@@ -1452,7 +1548,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 028.jpg"
  },
  {
   "id": "Q57419692",
@@ -1467,7 +1564,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Hayez, Francesco – Accusa segreta – 1847 1848.jpg"
  },
  {
   "id": "Q114901638",
@@ -1482,7 +1580,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Hayez 230.jpg"
  },
  {
   "id": "Q3628259",
@@ -1497,7 +1596,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Hayez - Atleta trionfante, 1813, 0007.jpg"
  },
  {
   "id": "Q66379827",
@@ -1512,7 +1612,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez 023.jpg"
  },
  {
   "id": "Q19960337",
@@ -1527,7 +1628,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Venere che scherza con due colombe-Francesco Hayez.jpg"
  },
  {
   "id": "Q20434671",
@@ -1542,7 +1644,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Hayez, Fracesco - Crusaders Thirsting near Jerusalem - 1836-50.jpg"
  },
  {
   "id": "Q66828112",
@@ -1557,7 +1660,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "La sed sufrida por los primeros cruzados en Jerusalén, por Francesco Hayez.jpg"
  },
  {
   "id": "Q66828002",
@@ -1572,7 +1676,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Hayez, Francesco; Portrait of Carolina Zucchi (The Sick Woman) (Yorck).jpg"
  },
  {
   "id": "Q19968904",
@@ -1587,7 +1692,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "L'ultimo bacio di Giulietta e Romeo.jpg"
  },
  {
   "id": "Q131617893",
@@ -1602,7 +1708,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q131617902",
@@ -1617,7 +1724,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Francesco Hayez - Odalisca che legge, 1867.jpg"
  },
  {
   "id": "Q131617909",
@@ -1632,7 +1740,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q117236703",
@@ -1647,7 +1756,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q107122998",
@@ -1662,7 +1772,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "(Treviso) Gruppo della famiglia del pittore con il primo autoritratto by Francesco Hayez - Treviso, Museo Civico.jpg"
  },
  {
   "id": "Q122853872",
@@ -1677,7 +1788,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Hayez, Tamar di Giuda, 1847.jpg"
  },
  {
   "id": "Q66023532",
@@ -1692,7 +1804,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "(Venice) Aristotele by Francesco Hayez in gallerie Accademia Venice.jpg"
  },
  {
   "id": "Q66426240",
@@ -1707,7 +1820,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Autoritratto a 88 anni by Francesco Hayez - Venice.jpg"
  },
  {
   "id": "Q122802321",
@@ -1722,7 +1836,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Verificare se esposta al pubblico"
+  "note": "Verificare se esposta al pubblico",
+  "image": "Hayez, Autoritratto (1862).jpg"
  },
  {
   "id": "Q19960417",
@@ -1737,7 +1852,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "(Venice) La distruzione del tempio di Gerusalemme -Francesco Hayez - gallerie Accademia Venice.jpg"
  },
  {
   "id": "Q131825338",
@@ -1752,7 +1868,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q66380185",
@@ -1767,7 +1884,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "(Venice) Rinaldo and Armida - Francesco Hayez - gallerie Accademia Venice.jpg"
  },
  {
   "id": "Q120001348",
@@ -1782,7 +1900,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "(Venice) Solone - Francesco Hayez - gallerie Accademia Venice.jpg"
  },
  {
   "id": "Q19960344",
@@ -1797,7 +1916,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "La Meditazione - Francesco Hayez (1851).jpg"
  },
  {
   "id": "Q138458007",
@@ -1812,7 +1932,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Sede non aperta al pubblico"
+  "note": "Sede non aperta al pubblico",
+  "image": "Hayez, Nomina di Pietro Rossi di Parma a comandante delle forze di terra, 1850 circa.jpg"
  },
  {
   "id": "Q972196",
@@ -1827,7 +1948,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Leonardo da Vinci — Jerome.jpg"
  },
  {
   "id": "Q1638622",
@@ -1842,7 +1964,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Leonardo da Vinci, Adoration, c1481, Uffizi.jpg"
  },
  {
   "id": "Q1217213",
@@ -1857,7 +1980,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Annunciation (Leonardo) (cropped).jpg"
  },
  {
   "id": "Q1059211",
@@ -1872,7 +1996,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Verrocchio and Leonardo, Baptism of Christ, c1470-75, Uffizi.jpg"
  },
  {
   "id": "Q2338404",
@@ -1887,7 +2012,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Leonardo da Vinci - Portrait of a Musician - Pinacoteca Ambrosiana.jpg"
  },
  {
   "id": "Q3800774",
@@ -1902,7 +2028,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q128910",
@@ -1917,7 +2044,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Aggiunta a mano: su Wikidata non risulta con questi criteri. Prenotazione obbligatoria, spesso esaurita."
+  "note": "Aggiunta a mano: su Wikidata non risulta con questi criteri. Prenotazione obbligatoria, spesso esaurita.",
+  "image": "Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg"
  },
  {
   "id": "Q797902",
@@ -1932,7 +2060,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Lascapigliata.jpg"
  },
  {
   "id": "Q3618186",
@@ -1947,7 +2076,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa; da verificare la collocazione"
+  "note": "Attribuzione discussa; da verificare la collocazione",
+  "image": "L'Annonciation, by Leonardo da Vinci, from C2RMF retouched.jpg"
  },
  {
   "id": "Q2397593",
@@ -1962,7 +2092,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa; verificare se esposta"
+  "note": "Attribuzione discussa; verificare se esposta",
+  "image": "La Battaglia di Anghiari di Leonardo.jpg"
  },
  {
   "id": "Q3937378",
@@ -1977,7 +2108,8 @@
   "counts": "maybe",
   "rarity": "rare",
   "points": 50,
-  "note": "Ritratti quasi scomparsi, attribuzione discussa"
+  "note": "Ritratti quasi scomparsi, attribuzione discussa",
+  "image": "Leonardo da vinci, Ritratti dei duchi di Milano con i figli.jpg"
  },
  {
   "id": "Q3985169",
@@ -1992,7 +2124,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Leonardo, testa di cristo, 1494 circa, pinacoteca di brera.jpg"
  },
  {
   "id": "Q6696013",
@@ -2007,7 +2140,8 @@
   "counts": "maybe",
   "rarity": "rare",
   "points": 50,
-  "note": "Attribuzione respinta dalla maggior parte degli studiosi"
+  "note": "Attribuzione respinta dalla maggior parte degli studiosi",
+  "image": null
  },
  {
   "id": "Q2045726",
@@ -2022,7 +2156,8 @@
   "counts": "no",
   "rarity": "ghost",
   "points": 200,
-  "note": "Perduta (forse sotto gli affreschi del Vasari); si cattura nel Salone dei Cinquecento"
+  "note": "Perduta (forse sotto gli affreschi del Vasari); si cattura nel Salone dei Cinquecento",
+  "image": "Peter Paul Ruben's copy of the lost Battle of Anghiari.jpg"
  },
  {
   "id": "Q3829345",
@@ -2037,7 +2172,8 @@
   "counts": "no",
   "rarity": "ghost",
   "points": 200,
-  "note": "Originale perduto; si cattura davanti alla copia"
+  "note": "Originale perduto; si cattura davanti alla copia",
+  "image": "Leda Melzi Uffizi.jpg"
  },
  {
   "id": "Q126182494",
@@ -2052,7 +2188,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": "Cristo portacroce michelangelo2.jpg"
  },
  {
   "id": "Q2354236",
@@ -2067,7 +2204,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Autori vari, arca di san domenico, angelo reggicandelabro di michelangelo, 1494, 01.jpg"
  },
  {
   "id": "Q2429976",
@@ -2082,7 +2220,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Autori vari, arca di san domenico, protettori di bologna, 02 petronio di michelangelo, 1494, 2.jpg"
  },
  {
   "id": "Q2418609",
@@ -2097,7 +2236,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Autori vari, arca di san domenico, protettori di bologna, 02 procolo di michelangelo, 1494.jpg"
  },
  {
   "id": "Q567861",
@@ -2112,7 +2252,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Anno su Wikidata errato (1600)"
+  "note": "Anno su Wikidata errato (1600)",
+  "image": "Altarraum mit Jüngstem Gericht.jpg"
  },
  {
   "id": "Q235242",
@@ -2127,7 +2268,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo's Pieta 5450 cropncleaned edit.jpg"
  },
  {
   "id": "Q500242",
@@ -2142,7 +2284,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Oltre 60 scene su Wikidata (Creazione di Adamo, Sibille, Profeti...) raggruppate in una carta"
+  "note": "Oltre 60 scene su Wikidata (Creazione di Adamo, Sibille, Profeti...) raggruppate in una carta",
+  "image": "The Creation of Adam perspective fix.jpg"
  },
  {
   "id": "Q596683",
@@ -2157,7 +2300,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Tomba di lorenzo de' medici, 1531, aurora 02.jpg"
  },
  {
   "id": "Q1144620",
@@ -2172,7 +2316,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo Bacchus.jpg"
  },
  {
   "id": "Q2313006",
@@ -2187,7 +2332,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo, centauromachia, 1492 ca., 01.JPG"
  },
  {
   "id": "Q2627551",
@@ -2202,7 +2348,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Bruto Miguel Ángel 02 (cropped).JPG"
  },
  {
   "id": "Q1984954",
@@ -2217,7 +2364,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Tomba di lorenzo de' medici, 1531-32, crepuscolo 02.jpg"
  },
  {
   "id": "Q1572984",
@@ -2232,7 +2380,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Installazione florens 2012 crocifisso michelangelo 02.JPG"
  },
  {
   "id": "Q179900",
@@ -2247,7 +2396,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Michelangelo's David - right view 2.jpg"
  },
  {
   "id": "Q2154351",
@@ -2262,7 +2412,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3708034",
@@ -2277,7 +2428,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q2438217",
@@ -2292,7 +2444,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1985154",
@@ -2307,7 +2460,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3937559",
@@ -2322,7 +2476,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3937601",
@@ -2337,7 +2492,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1985071",
@@ -2352,7 +2508,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q2078173",
@@ -2367,7 +2524,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3878834",
@@ -2382,7 +2540,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q2342843",
@@ -2397,7 +2556,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Anno su Wikidata errato (1600)"
+  "note": "Anno su Wikidata errato (1600)",
+  "image": null
  },
  {
   "id": "Q768337",
@@ -2412,7 +2572,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3057936",
@@ -2427,7 +2588,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3057930",
@@ -2442,7 +2604,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3177994",
@@ -2457,7 +2620,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q2500541",
@@ -2472,7 +2636,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1473546",
@@ -2487,7 +2652,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q785767",
@@ -2502,7 +2668,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1878666",
@@ -2517,7 +2684,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "manual-cristo-della-minerva",
@@ -2532,7 +2700,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Aggiunta a mano: manca su Wikidata con questi criteri"
+  "note": "Aggiunta a mano: manca su Wikidata con questi criteri",
+  "image": null
  },
  {
   "id": "Q2437692",
@@ -2547,7 +2716,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Tomba di Giulio II"
+  "note": "Tomba di Giulio II",
+  "image": null
  },
  {
   "id": "Q1989744",
@@ -2562,7 +2732,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Tomba di Giulio II"
+  "note": "Tomba di Giulio II",
+  "image": null
  },
  {
   "id": "Q2437149",
@@ -2577,7 +2748,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Tomba di Giulio II"
+  "note": "Tomba di Giulio II",
+  "image": null
  },
  {
   "id": "Q1774735",
@@ -2592,7 +2764,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1774747",
@@ -2607,7 +2780,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1981945",
@@ -2622,7 +2796,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3643325",
@@ -2637,7 +2812,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Bozzetto, attribuzione discussa"
+  "note": "Bozzetto, attribuzione discussa",
+  "image": null
  },
  {
   "id": "Q3715995",
@@ -2652,7 +2828,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Bozzetto, attribuzione discussa"
+  "note": "Bozzetto, attribuzione discussa",
+  "image": null
  },
  {
   "id": "Q2255664",
@@ -2667,7 +2844,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione respinta da molti studiosi"
+  "note": "Attribuzione respinta da molti studiosi",
+  "image": null
  },
  {
   "id": "Q2432043",
@@ -2682,7 +2860,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Cappella del Palazzo Apostolico, normalmente chiusa al pubblico"
+  "note": "Cappella del Palazzo Apostolico, normalmente chiusa al pubblico",
+  "image": null
  },
  {
   "id": "Q1886263",
@@ -2697,7 +2876,8 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Cappella del Palazzo Apostolico, normalmente chiusa al pubblico; anno su Wikidata errato"
+  "note": "Cappella del Palazzo Apostolico, normalmente chiusa al pubblico; anno su Wikidata errato",
+  "image": null
  },
  {
   "id": "Q15965560",
@@ -2712,7 +2892,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q18564202",
@@ -2727,7 +2908,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q15965567",
@@ -2742,7 +2924,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Ciclo della Genesi; il Diluvio va aggiunto (manca su Wikidata)"
+  "note": "Ciclo della Genesi; il Diluvio va aggiunto (manca su Wikidata)",
+  "image": null
  },
  {
   "id": "Q2604153",
@@ -2757,7 +2940,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3886134",
@@ -2772,7 +2956,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3910082",
@@ -2787,7 +2972,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Museo con aperture rare"
+  "note": "Museo con aperture rare",
+  "image": null
  },
  {
   "id": "Q3949271",
@@ -2802,7 +2988,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Visitabile solo su prenotazione"
+  "note": "Visitabile solo su prenotazione",
+  "image": null
  },
  {
   "id": "Q3974449",
@@ -2817,7 +3004,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3982380",
@@ -2832,7 +3020,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3637223",
@@ -2847,7 +3036,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q111822168",
@@ -2862,7 +3052,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q16653993",
@@ -2877,7 +3068,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q77266493",
@@ -2892,7 +3084,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": null
  },
  {
   "id": "Q15974341",
@@ -2907,7 +3100,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": null
  },
  {
   "id": "Q131546444",
@@ -2922,7 +3116,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": null
  },
  {
   "id": "Q125820609",
@@ -2937,7 +3132,8 @@
   "counts": "maybe",
   "rarity": "rare",
   "points": 50,
-  "note": "Attribuzione discussa; accesso limitato"
+  "note": "Attribuzione discussa; accesso limitato",
+  "image": null
  },
  {
   "id": "Q3732754",
@@ -2952,7 +3148,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Ciclo di 17 scene raggruppate in una carta; visita su prenotazione"
+  "note": "Ciclo di 17 scene raggruppate in una carta; visita su prenotazione",
+  "image": null
  },
  {
   "id": "Q3292111",
@@ -2967,7 +3164,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q1227359",
@@ -2982,7 +3180,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Su Wikidata anche come due ritratti separati: unificati"
+  "note": "Su Wikidata anche come due ritratti separati: unificati",
+  "image": null
  },
  {
   "id": "Q1796098",
@@ -2997,7 +3196,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q3947720",
@@ -3012,7 +3212,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero della Francesca - Saint Nicholas of Tolentino - Google Art Project.jpg"
  },
  {
   "id": "Q723479",
@@ -3027,7 +3228,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": "Piccolo borgo fuori dai circuiti"
+  "note": "Piccolo borgo fuori dai circuiti",
+  "image": "Madonna del parto piero della Francesca.jpg"
  },
  {
   "id": "Q3395793",
@@ -3042,7 +3244,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Su Wikidata anche l'Annunciazione separata: unificate"
+  "note": "Su Wikidata anche l'Annunciazione separata: unificate",
+  "image": "StAntoinePerugia.jpg"
  },
  {
   "id": "Q3960322",
@@ -3057,7 +3260,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero, Sigismondo Pandolfo Malatesta before Saint Sigismund 01.jpg"
  },
  {
   "id": "Q2247307",
@@ -3072,7 +3276,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero della Francesca - Polyptych of the Misericordia - WGA17446.jpg"
  },
  {
   "id": "Q430293",
@@ -3087,7 +3292,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Resurrection.JPG"
  },
  {
   "id": "Q3947322",
@@ -3102,7 +3308,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero della francesca, san giuliano.jpg"
  },
  {
   "id": "Q3947516",
@@ -3117,7 +3324,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero della Francesca - St Ludovico - WGA17634.jpg"
  },
  {
   "id": "Q1212920",
@@ -3132,7 +3340,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Piero della Francesca Flagellazione-gndm-full.jpg"
  },
  {
   "id": "Q1092638",
@@ -3147,7 +3356,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Wikidata indica Senigallia (luogo d'origine)"
+  "note": "Wikidata indica Senigallia (luogo d'origine)",
+  "image": "Madonna di Senigallia 2020.jpg"
  },
  {
   "id": "Q3947293",
@@ -3162,7 +3372,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Accademia - San Girolamo e un devoto - Piero della Francesca.jpg"
  },
  {
   "id": "Q117337740",
@@ -3177,7 +3388,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione a Piero molto discussa"
+  "note": "Attribuzione a Piero molto discussa",
+  "image": null
  },
  {
   "id": "Q131501821",
@@ -3192,7 +3404,8 @@
   "counts": "no",
   "rarity": "ghost",
   "points": 200,
-  "note": "Ciclo perduto; si cattura all'ospedale di Santa Maria Nuova"
+  "note": "Ciclo perduto; si cattura all'ospedale di Santa Maria Nuova",
+  "image": "Giusto d'andrea, basamento del ciclo di sant'egidio, 1439-70.JPG"
  },
  {
   "id": "Q2343939",
@@ -3207,7 +3420,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raffael 021.jpg"
  },
  {
   "id": "Q1103801",
@@ -3222,7 +3436,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Bologna Pinacoteca Nazionale - Rafaël Santi (1483-1520) - Heilige Cecilia in extase met Paulus, Johannes (evangelist), Augustinus en Maria Magdalena - 26-04-2012 9-13-18.jpg"
  },
  {
   "id": "Q3616853",
@@ -3237,7 +3452,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Angelo 1 (frammento pala Baronci).jpg"
  },
  {
   "id": "Q1131153",
@@ -3252,7 +3468,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "CristoRaffaello.jpg"
  },
  {
   "id": "Q2610709",
@@ -3267,7 +3484,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Madonna di Foligno (Raphael) September 2015-1a.jpg"
  },
  {
   "id": "Q2344357",
@@ -3282,7 +3500,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "PalaOddiRaffaello.jpg"
  },
  {
   "id": "Q3658723",
@@ -3297,7 +3516,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Tre tavolette raggruppate"
+  "note": "Tre tavolette raggruppate",
+  "image": "Raffaello, pala baglioni, carità.jpg"
  },
  {
   "id": "Q1996917",
@@ -3312,7 +3532,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Eseguita soprattutto dalla bottega"
+  "note": "Eseguita soprattutto dalla bottega",
+  "image": "Raphael Baptism Constantine.jpg"
  },
  {
   "id": "Q2531790",
@@ -3327,7 +3548,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Affreschi della stanza raggruppati in una carta"
+  "note": "Affreschi della stanza raggruppati in una carta",
+  "image": "Raphael - Fire in the Borgo.jpg"
  },
  {
   "id": "Q186953",
@@ -3342,7 +3564,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Affreschi della stanza raggruppati in una carta"
+  "note": "Affreschi della stanza raggruppati in una carta",
+  "image": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg"
  },
  {
   "id": "Q774018",
@@ -3357,7 +3580,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Affreschi della stanza raggruppati in una carta"
+  "note": "Affreschi della stanza raggruppati in una carta",
+  "image": "Raffael Staza di Eliodoro.jpg"
  },
  {
   "id": "Q2344437",
@@ -3372,7 +3596,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Transfigurazione (Raffaello) September 2015-1a.jpg"
  },
  {
   "id": "Q3498200",
@@ -3387,7 +3612,8 @@
   "counts": "yes",
   "rarity": "rare",
   "points": 50,
-  "note": ""
+  "note": "",
+  "image": null
  },
  {
   "id": "Q555821",
@@ -3402,7 +3628,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Sanzio.jpg"
  },
  {
   "id": "Q2276546",
@@ -3417,7 +3644,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raphael-LaDonnaGravida(1505-1506).jpg"
  },
  {
   "id": "Q948034",
@@ -3432,7 +3660,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "La velada, por Rafael.jpg"
  },
  {
   "id": "Q3842604",
@@ -3447,7 +3676,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello (Urbino 1483 – Roma 1520) - Madonna con Bambino in trono e i santi Pietro, Bernardo, Agostino e Ranieri, detta Madonna del Baldacchino - 165 - Galleria Palatina.jpg"
  },
  {
   "id": "Q2344505",
@@ -3462,7 +3692,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Madonna of the Goldfinch (by Raffaello Sanzio) – Galleria degli Uffizi, Florence.jpg"
  },
  {
   "id": "Q2035209",
@@ -3477,7 +3708,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello (1483-1520) - La Madonna del Granduca - 178 - Galleria Palatina.jpg"
  },
  {
   "id": "Q2052275",
@@ -3492,7 +3724,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Madonna dell’Impannata, by Raphael.jpg"
  },
  {
   "id": "Q966681",
@@ -3507,7 +3740,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raphael Madonna della seggiola.jpg"
  },
  {
   "id": "Q3399492",
@@ -3522,7 +3756,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Sanzio (Urbino 1483 – Roma 1520) - Ritratto del Cardinale Bibbiena - 158 - Galleria Palatina.jpg"
  },
  {
   "id": "Q2515309",
@@ -3537,7 +3772,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Agnolo Doni's portrait paintings by Raffaello Sanzio.jpg"
  },
  {
   "id": "Q2627028",
@@ -3552,7 +3788,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Portrait of Elisabetta Gonzaga, Duchess of Urbino (by Raffaello Sanzio) – Galleria degli Uffizi, Florence FXD.jpg"
  },
  {
   "id": "Q19516146",
@@ -3567,7 +3804,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Portrait of Pope Julius II della Rovere (by Raffaello Sanzio) – Galleria degli Uffizi, Florence.jpg"
  },
  {
   "id": "Q3013751",
@@ -3582,7 +3820,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Sanzio - Guidobaldo da Montefeltro - WGA18653.jpg"
  },
  {
   "id": "Q2610729",
@@ -3597,7 +3836,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Wikidata indica la Palatina: verificare"
+  "note": "Wikidata indica la Palatina: verificare",
+  "image": "Portrait of Pope Leo X and his cousins, cardinals Giulio de' Medici and Luigi de' Rossi (by Raphael).jpg"
  },
  {
   "id": "Q2607055",
@@ -3612,7 +3852,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Ritratto di maddalena strozzi.jpg"
  },
  {
   "id": "Q428274",
@@ -3627,7 +3868,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Portrait of Tommaso Inghirami (by Raphael) - type 2.jpg"
  },
  {
   "id": "Q2713823",
@@ -3642,7 +3884,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Raffaello Sanzio (Urbino 1483 - Roma 1520) - Ritratto di giovane con pomo - 8760 - Uffizi Gallery.jpg"
  },
  {
   "id": "Q3463871",
@@ -3657,7 +3900,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "In gran parte di bottega"
+  "note": "In gran parte di bottega",
+  "image": "John the Baptist in the wilderness (by Raffaello Sanzio) – Tribuna degli Uffizi, Florence.jpg"
  },
  {
   "id": "Q1134281",
@@ -3672,7 +3916,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello - Visione di Ezechiele.jpg"
  },
  {
   "id": "Q2030685",
@@ -3687,7 +3932,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello - Spozalizio - Web Gallery of Art.jpg"
  },
  {
   "id": "Q3733689",
@@ -3702,7 +3948,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Frammento della Pala di San Nicola da Tolentino"
+  "note": "Frammento della Pala di San Nicola da Tolentino",
+  "image": "Raffaello, God the Father and the Virgin Mary.jpg"
  },
  {
   "id": "Q3842605",
@@ -3717,7 +3964,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": "Con la bottega"
+  "note": "Con la bottega",
+  "image": "Madonna del Divino Amore, Raffaello Sanzio.jpg"
  },
  {
   "id": "Q2635552",
@@ -3732,7 +3980,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Rafael - Alessandro Farnese.jpg"
  },
  {
   "id": "Q2344396",
@@ -3747,7 +3996,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Sanzio - Lady with unicorn.jpg"
  },
  {
   "id": "Q2500226",
@@ -3762,7 +4012,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello, pala baglioni, deposizione.jpg"
  },
  {
   "id": "Q153441",
@@ -3777,7 +4028,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Raffaello Sanzio - La Fornarina (ca. 1519-1520).jpg"
  },
  {
   "id": "Q121689728",
@@ -3792,7 +4044,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Con la bottega; scene raggruppate"
+  "note": "Con la bottega; scene raggruppate",
+  "image": "Raffael, Loggia di Psiche, Villa Farnesina, Rome 09.jpg"
  },
  {
   "id": "Q3226022",
@@ -3807,7 +4060,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raffaello, profeta isaia.jpg"
  },
  {
   "id": "Q2535482",
@@ -3822,7 +4076,8 @@
   "counts": "yes",
   "rarity": "common",
   "points": 10,
-  "note": ""
+  "note": "",
+  "image": "Andrea Navagero and Agostino Beaziano by Raphael.jpg"
  },
  {
   "id": "Q1639900",
@@ -3837,7 +4092,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raphael Sibyls and Prophets frescos s Maria della Pace 03.jpg"
  },
  {
   "id": "Q2344368",
@@ -3852,7 +4108,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raffael 012.jpg"
  },
  {
   "id": "Q919861",
@@ -3867,7 +4124,8 @@
   "counts": "yes",
   "rarity": "uncommon",
   "points": 25,
-  "note": ""
+  "note": "",
+  "image": "Raffael 043.jpg"
  },
  {
   "id": "Q131690612",
@@ -3882,7 +4140,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Completata dalla bottega dopo la morte di Raffaello"
+  "note": "Completata dalla bottega dopo la morte di Raffaello",
+  "image": "Giulio Romano - Coronation of the Virgin (Madonna of Monteluce) - WGA09613.jpg"
  },
  {
   "id": "Q521680",
@@ -3897,7 +4156,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Raffaello Ritratto di donna.jpg"
  },
  {
   "id": "Q131433288",
@@ -3912,7 +4172,8 @@
   "counts": "maybe",
   "rarity": "uncommon",
   "points": 25,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Anonimo umbro sec. XV XVI - Cristo in pietà.jpg"
  },
  {
   "id": "Q2629715",
@@ -3927,7 +4188,8 @@
   "counts": "maybe",
   "rarity": "common",
   "points": 10,
-  "note": "Attribuzione discussa"
+  "note": "Attribuzione discussa",
+  "image": "Raphael Portrait of a man cat14.jpg"
  },
  {
   "id": "Q3620750",
@@ -3942,6 +4204,7 @@
   "counts": "no",
   "rarity": "legendary",
   "points": 100,
-  "note": "Visitabili solo in rare occasioni"
+  "note": "Visitabili solo in rare occasioni",
+  "image": "Marcantonio raimondi, san giuda taddeo.jpg"
  }
 ]

@@ -1,3 +1,4 @@
+import { Image } from 'expo-image';
 import { router, useLocalSearchParams } from 'expo-router';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -59,6 +60,12 @@ export default function StampScreen() {
             {work.city ? `, ${work.city}` : ''}. Vale {work.points} punti.
           </Text>
         )}
+        {owned && cap?.photoUri && (
+          <View style={styles.mine}>
+            <Image source={{ uri: cap.photoUri }} style={styles.minePhoto} contentFit="cover" />
+            <Text style={styles.mineText}>La tua foto, {date}</Text>
+          </View>
+        )}
         {!!work.note && !isNew && <Text style={styles.note}>{work.note}</Text>}
       </ScrollView>
 
@@ -86,6 +93,9 @@ const styles = StyleSheet.create({
   fill: { height: 4, backgroundColor: Ink.stamp },
   where: { fontFamily: Type.displayItalic, fontStyle: 'italic', fontSize: 16, color: Ink.inkSoft, textAlign: 'center', marginTop: 8 },
   note: { fontFamily: Type.body, fontSize: 12, color: Ink.inkFaint, textAlign: 'center', marginTop: 8 },
+  mine: { alignItems: 'center', gap: 6, marginTop: 16 },
+  minePhoto: { width: 120, height: 150, borderWidth: 4, borderColor: '#FBF6EC', transform: [{ rotate: '2deg' }] },
+  mineText: { fontFamily: Type.displayItalic, fontStyle: 'italic', fontSize: 13, color: Ink.inkSoft },
   actions: { padding: 16, gap: 8 },
   primary: { backgroundColor: Ink.ink, paddingVertical: 16, borderRadius: 4, alignItems: 'center' },
   primaryText: { fontFamily: Type.label, color: Ink.paper, fontSize: 14, letterSpacing: 0.5 },

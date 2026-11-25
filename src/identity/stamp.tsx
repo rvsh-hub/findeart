@@ -1,12 +1,12 @@
 import { Image } from 'expo-image';
 import { StyleSheet, Text, View, type ViewStyle } from 'react-native';
 
-import type { Work } from '@/data/catalog';
+import { imageUrl, type Work } from '@/data/catalog';
 import { Ink, RarityInk, Type } from '@/identity/grand-tour';
 
 /**
  * A work as a postage stamp: perforated edge, rarity ink, photo inside.
- * Missing works are drawn as an empty, dashed stamp to be collected.
+ * Missing works are a faded ghost of the artwork, in a dashed stamp.
  */
 export function Stamp({
   work,
@@ -23,14 +23,22 @@ export function Stamp({
 }) {
   const r = RarityInk[work.rarity];
   const big = size === 'large';
+  // The real artwork from Commons; the user's own photo only as a fallback.
+  const art = imageUrl(work, big ? 800 : 300) ?? (owned ? photoUri : null);
   return (
     <View style={[styles.perf, big && styles.perfBig, style]}>
       <View style={[styles.inner, { borderColor: owned ? r.color : Ink.paperEdge }, !owned && styles.missing]}>
         <View style={[styles.art, big && styles.artBig, { backgroundColor: owned ? Ink.paperDeep : 'transparent' }]}>
-          {owned && photoUri ? (
-            <Image source={{ uri: photoUri }} style={StyleSheet.absoluteFill} contentFit="cover" />
-          ) : (
-            <Text style={[styles.unknown, { color: owned ? r.color : Ink.paperEdge }]}>{owned ? '✦' : '?'}</Text>
+          {art ? (
+            <Image
+              source={{ uri: art }}
+              style={[StyleSheet.absoluteFill, !owned && styles.ghost]}
+              contentFit="cover"
+              transition={200}
+            />
+          ) : null}
+          {(!owned || !art) && (
+            <Text style={[styles.unknown, { color: owned ? r.color : Ink.inkSoft }]}>{owned ? '✦' : '?'}</Text>
           )}
         </View>
         <Text style={[styles.rarity, big && styles.rarityBig, { color: owned ? r.color : Ink.inkFaint }]}>
@@ -80,6 +88,7 @@ const styles = StyleSheet.create({
   missing: { borderStyle: 'dashed' },
   art: { aspectRatio: 0.82, alignItems: 'center', justifyContent: 'center', overflow: 'hidden' },
   artBig: { aspectRatio: 0.8 },
+  ghost: { opacity: 0.16 },
   unknown: { fontFamily: Type.display, fontSize: 28 },
   rarity: { fontFamily: Type.label, fontSize: 8, letterSpacing: 0.8, textTransform: 'uppercase', marginTop: 2 },
   rarityBig: { fontSize: 11 },
